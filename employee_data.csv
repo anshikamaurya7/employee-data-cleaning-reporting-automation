@@ -1,0 +1,1001 @@
+Employee_ID,Name,Gender,Age,Department,Designation,Experience_Years,Salary,Performance_Rating,Attendance,City,Joining_Date,Work_Mode,Overtime_Hours,Training_Hours
+1001,Sneha Patel,Male,51,Sales,Intern,18,71015,GOOD,71.5,Bangalore,2020-11-18,OFFICE,21,9
+1002,Rohan Jain,Male,40,it,senior Analyst,2,127877,average,88.1,chennai,2019-12-15,remote,13,41
+1003,Rohan Gupta,M,44,Marketing,senior Analyst,6,40339,average,94.2,Bangalore,2019-11-19,remote,10,35
+1004,Sneha mehta,M,45,HR,manager,13,28491,GOOD,74.71,Mumbai,2018-11-26,OFFICE,22,16
+1005,aditya yadav,F,56,Sales,Intern,13,25706,GOOD,70.45,lucknow,2022-10-13,remote,10,39
+1006,Neha Jain,male,41,Marketing,senior Analyst,12,122493,excellent,79.38,HyderaBad,2021-04-22,Hybrid,16,34
+1007,priya Patel,female,50,Sales,Intern,11,40728,average,87.64,Mumbai,2023-11-13,OFFICE,3,10
+1008,Riya Jain,male,44,Sales,Intern,8,31997,Poor,74.15,lucknow,2020-02-24,remote,12,19
+1009,aditya Maurya,F,50,HR,manager,0,128537,Poor,82.78,Bangalore,2024-07-28,OFFICE,6,19
+1010,priya Verma,M,42,finance,Intern,18,85408,average,86.57,HyderaBad,2020-07-29,OFFICE,15,20
+1011,Riya Maurya,Female,48,Marketing,EXecutive,10,83097,excellent,87.97,Jaipur,2021-07-12,remote,0,24
+1012,Vivaan Gupta,M,27,HR,EXecutive,18,63523,excellent,78.23,lucknow,2022-08-07,Hybrid,12,17
+1013,aarav mehta,female,55,Sales,Analyst,17,146648,GOOD,82.0,Bangalore,2019-09-18,remote,0,48
+1014,Rahul Kumar,M,48,HR,manager,11,50163,Poor,93.35,Bangalore,2018-05-19,remote,10,46
+1015,aarav mehta,female,34,finance,Analyst,0,42718,excellent,98.24,Mumbai,2020-02-01,Hybrid,5,50
+1016,Aisha singh,female,30,Marketing,EXecutive,18,112508,excellent,95.86,Mumbai,2023-01-08,remote,19,35
+1017,Aisha yadav,female,36,finance,Analyst,19,108767,average,86.93,Jaipur,2024-04-21,remote,2,38
+1018,Ananya Kumar,F,36,it,manager,16,64619,excellent,82.31,chennai,2022-04-05,remote,11,33
+1019,aditya Gupta,female,51,Marketing,manager,4,37126,GOOD,79.99,Pune,2019-11-07,OFFICE,30,7
+1020,aditya yadav,female,45,finance,Intern,2,114131,average,73.75,DELHI,2018-04-02,OFFICE,4,13
+1021,priya Kumar,Female,33,Sales,senior Analyst,1,89926,GOOD,73.2,Pune,2020-12-28,OFFICE,8,15
+1022,Sneha Verma,male,26,Marketing,Intern,2,65633,excellent,90.65,Pune,2018-02-06,remote,25,15
+1023,Ananya Kumar,Male,29,Marketing,manager,7,102654,average,77.79,HyderaBad,2022-11-23,Hybrid,25,29
+1024,Aisha Verma,male,56,HR,EXecutive,15,28317,average,77.64,chennai,2023-12-28,OFFICE,11,26
+1025,Arjun Kumar,female,40,Sales,EXecutive,5,69980,Poor,99.95,HyderaBad,2021-04-16,Hybrid,29,46
+1026,Arjun Gupta,Female,38,it,Intern,12,69115,GOOD,75.64,Jaipur,2023-01-11,remote,29,50
+1027,Vivaan Patel,M,41,finance,manager,15,86646,excellent,74.44,HyderaBad,2023-03-10,OFFICE,27,13
+1028,Aisha yadav,Female,24,HR,EXecutive,15,68158,average,72.96,lucknow,2018-05-17,remote,26,24
+1029,Aisha Jain,female,53,finance,manager,2,80963,GOOD,87.39,Jaipur,2024-02-16,Hybrid,9,25
+1030,Kabir singh,Female,47,it,EXecutive,12,72631,GOOD,88.84,Jaipur,2022-07-22,OFFICE,18,14
+1031,simran Sharma,Female,27,it,manager,13,74316,average,80.96,Bangalore,2024-07-17,OFFICE,4,26
+1032,Ananya Verma,female,26,Marketing,Analyst,7,130364,GOOD,86.06,Bangalore,2022-05-02,OFFICE,25,33
+1033,Riya Patel,F,35,it,manager,11,84342,GOOD,93.65,Bangalore,2020-08-29,OFFICE,4,13
+1034,Vivaan Maurya,Female,38,finance,manager,7,40504,excellent,94.54,DELHI,2019-10-24,Hybrid,8,9
+1035,Rahul mehta,Male,52,Sales,Intern,8,93593,GOOD,98.74,lucknow,2024-04-09,OFFICE,26,44
+1036,Ananya Maurya,Male,31,Sales,Analyst,0,51660,GOOD,94.73,lucknow,2022-12-16,remote,27,15
+1037,Rohan Verma,Female,40,Marketing,senior Analyst,5,62196,GOOD,86.95,Bangalore,2019-02-19,OFFICE,25,5
+1038,Arjun Verma,F,44,finance,Intern,18,90938,average,75.39,Pune,2018-12-09,Hybrid,26,46
+1039,Arjun Patel,M,35,finance,senior Analyst,10,33605,Poor,72.99,DELHI,2018-05-26,OFFICE,19,5
+1040,simran Jain,female,27,it,EXecutive,10,82388,excellent,71.64,Pune,2018-11-19,Hybrid,16,43
+1041,simran yadav,Male,41,finance,senior Analyst,12,106297,excellent,90.0,Mumbai,2023-12-10,Hybrid,9,50
+1042,Aisha Kumar,M,46,HR,manager,10,80501,excellent,94.23,lucknow,2021-06-29,remote,20,9
+1043,simran Jain,Female,34,it,senior Analyst,17,78309,excellent,85.26,lucknow,2023-02-22,OFFICE,0,26
+1044,priya Verma,M,57,HR,Intern,14,52043,average,71.64,Pune,2024-06-16,OFFICE,21,30
+1045,Kabir Gupta,male,41,Marketing,Intern,0,58635,average,86.06,DELHI,2019-08-24,OFFICE,27,10
+1046,Riya mehta,Male,38,Sales,senior Analyst,6,104315,average,98.07,lucknow,2019-04-20,remote,15,36
+1047,Karan Kumar,Female,25,Marketing,Intern,12,105691,GOOD,87.93,Pune,2022-02-24,remote,25,15
+1048,Rohan Sharma,female,23,Sales,Intern,11,131514,GOOD,94.28,Jaipur,2019-07-29,Hybrid,25,14
+1049,Karan yadav,F,43,Marketing,senior Analyst,17,58132,GOOD,94.0,Jaipur,2018-12-13,Hybrid,14,43
+1050,Karan Jain,Female,46,finance,Analyst,18,114387,excellent,97.96,HyderaBad,2022-02-19,Hybrid,22,38
+1051,aarav Jain,female,57,HR,Analyst,14,40366,average,93.11,DELHI,2019-01-17,remote,16,35
+1052,Riya singh,F,44,Sales,EXecutive,7,118944,Poor,92.43,Pune,2021-07-27,remote,25,16
+1053,aarav Jain,F,39,it,Intern,18,97107,GOOD,77.02,HyderaBad,2018-03-13,remote,19,48
+1054,aditya singh,Female,45,HR,senior Analyst,9,87580,average,71.8,Jaipur,2021-01-22,Hybrid,24,20
+1055,aarav Gupta,M,41,it,Intern,6,140267,GOOD,85.53,DELHI,2021-10-28,remote,12,42
+1056,Arjun yadav,M,32,HR,manager,17,147362,excellent,73.73,chennai,2024-07-14,Hybrid,0,7
+1057,Arjun Kumar,F,53,HR,Intern,15,82889,GOOD,98.87,HyderaBad,2021-09-21,Hybrid,24,6
+1058,Aisha yadav,M,24,Marketing,Intern,19,104553,GOOD,78.7,chennai,2019-10-26,OFFICE,7,9
+1059,Karan Jain,male,27,Sales,Analyst,5,64236,excellent,95.59,Bangalore,2022-02-24,OFFICE,4,15
+1060,Aisha Verma,F,42,Sales,senior Analyst,8,29150,average,81.63,DELHI,2023-03-07,OFFICE,5,29
+1061,aarav yadav,F,53,HR,Intern,12,136369,average,79.7,Mumbai,2018-02-09,Hybrid,22,39
+1062,Sneha Jain,female,37,finance,Analyst,7,44423,GOOD,98.05,Bangalore,2021-10-14,OFFICE,19,39
+1063,priya singh,M,44,finance,EXecutive,15,29137,GOOD,80.9,HyderaBad,2023-07-24,OFFICE,29,26
+1064,Aisha Jain,F,54,it,Analyst,12,54992,average,81.71,Pune,2021-07-01,OFFICE,13,41
+1065,Rahul singh,male,48,it,Analyst,12,135540,average,73.18,Bangalore,2020-08-23,remote,21,26
+1066,aarav singh,female,59,Marketing,Analyst,16,119438,average,90.11,Bangalore,2023-03-16,Hybrid,22,15
+1067,priya singh,Female,42,HR,Intern,19,140140,GOOD,78.67,HyderaBad,2024-01-27,OFFICE,10,36
+1068,aarav Gupta,F,37,it,Intern,4,69921,Poor,87.57,Pune,2019-12-02,remote,30,39
+1069,Arjun yadav,male,54,it,EXecutive,16,146225,excellent,87.74,Pune,2019-05-26,remote,5,35
+1070,Kabir yadav,Male,26,HR,manager,8,104369,average,91.58,Jaipur,2021-07-07,remote,10,49
+1071,Neha Kumar,male,26,Marketing,manager,1,91917,excellent,92.36,Mumbai,2019-08-07,OFFICE,12,12
+1072,Kabir mehta,male,54,it,manager,17,98690,average,85.43,Pune,2020-09-10,remote,30,24
+1073,Arjun singh,female,21,Marketing,EXecutive,8,59235,GOOD,79.93,lucknow,2019-04-04,Hybrid,11,46
+1074,Kabir yadav,Female,30,Sales,manager,5,103975,GOOD,95.12,lucknow,2023-03-21,remote,21,38
+1075,aarav Patel,Male,41,Marketing,manager,10,44122,GOOD,79.3,Mumbai,2024-07-16,remote,1,8
+1076,Rohan Patel,M,25,finance,Analyst,5,48956,excellent,85.23,DELHI,2023-10-06,remote,20,22
+1077,simran Gupta,M,22,finance,Intern,5,88879,average,82.04,HyderaBad,2024-03-15,remote,2,8
+1078,Sneha yadav,male,42,Marketing,Intern,12,83560,average,95.65,DELHI,2020-03-26,Hybrid,22,24
+1079,Rohan Patel,female,22,finance,Analyst,10,146435,Poor,82.96,lucknow,2024-11-16,OFFICE,3,13
+1080,Rohan yadav,female,30,Sales,Analyst,13,107800,excellent,81.58,Pune,2018-09-04,Hybrid,16,20
+1081,Neha singh,M,54,HR,Analyst,1,135310,average,90.69,Mumbai,2019-12-31,Hybrid,27,30
+1082,Rahul Verma,Male,36,finance,Intern,7,93685,average,88.07,DELHI,2024-08-17,OFFICE,27,42
+1083,Arjun Kumar,Female,59,finance,manager,2,49660,GOOD,73.22,DELHI,2019-02-21,remote,21,29
+1084,priya Maurya,Male,42,Marketing,Analyst,2,131196,excellent,85.25,chennai,2020-11-20,OFFICE,5,8
+1085,Aisha Patel,F,32,Sales,EXecutive,0,111064,average,92.06,HyderaBad,2019-01-03,OFFICE,6,45
+1086,simran mehta,F,44,HR,Analyst,18,139440,Poor,99.76,Bangalore,2018-04-18,Hybrid,14,49
+1087,Sneha Kumar,Female,58,Marketing,senior Analyst,17,26168,average,88.87,lucknow,2020-04-18,OFFICE,10,45
+1088,Sneha Sharma,M,30,Marketing,Analyst,16,70124,GOOD,81.11,Pune,2019-02-22,remote,23,42
+1089,aarav Kumar,Female,55,Sales,Intern,19,60897,GOOD,76.78,Mumbai,2022-07-02,Hybrid,30,23
+1090,Neha Kumar,female,52,HR,Analyst,12,40032,excellent,96.18,DELHI,2020-03-31,remote,2,18
+1091,Ananya Kumar,F,27,Sales,senior Analyst,2,77797,average,94.44,HyderaBad,2021-11-22,Hybrid,29,25
+1092,aditya yadav,male,41,HR,EXecutive,0,60294,average,77.02,Bangalore,2019-11-14,remote,5,19
+1093,Rahul Jain,male,40,Sales,manager,3,68827,excellent,76.02,lucknow,2018-09-13,OFFICE,25,7
+1094,Neha Kumar,M,46,Marketing,Analyst,12,28516,average,91.45,lucknow,2020-04-17,OFFICE,1,41
+1095,simran Gupta,female,24,Marketing,senior Analyst,16,44751,GOOD,79.45,HyderaBad,2024-04-01,OFFICE,28,50
+1096,aarav singh,Male,42,it,senior Analyst,10,55373,Poor,79.19,chennai,2019-07-07,remote,13,20
+1097,Arjun Jain,female,35,finance,EXecutive,1,147026,GOOD,74.57,Mumbai,2018-06-30,Hybrid,8,18
+1098,Kabir Maurya,male,41,Sales,Intern,15,55270,excellent,77.92,DELHI,2018-06-06,Hybrid,17,13
+1099,Riya Kumar,male,35,it,Analyst,1,35386,GOOD,82.83,Mumbai,2022-01-17,Hybrid,18,11
+1100,Ananya Sharma,F,42,finance,senior Analyst,18,126859,GOOD,91.99,HyderaBad,2019-07-25,OFFICE,11,18
+1101,simran Sharma,female,48,Sales,EXecutive,18,89817,excellent,80.09,HyderaBad,2020-05-06,remote,30,10
+1102,Arjun Patel,female,34,HR,manager,15,90184,GOOD,79.86,Mumbai,2022-11-20,Hybrid,30,25
+1103,Aisha yadav,male,47,finance,senior Analyst,18,139316,GOOD,78.55,Jaipur,2022-09-24,remote,12,19
+1104,Vivaan singh,Male,48,Marketing,EXecutive,8,104693,average,84.35,Bangalore,2020-11-13,Hybrid,25,12
+1105,aarav Gupta,M,46,it,Intern,0,62879,excellent,75.42,lucknow,2022-02-05,OFFICE,11,38
+1106,aarav Jain,M,22,finance,Intern,9,130056,GOOD,84.57,Jaipur,2021-11-24,remote,11,44
+1107,aarav Sharma,female,45,finance,senior Analyst,18,74597,excellent,91.13,Pune,2019-08-15,Hybrid,17,5
+1108,Vivaan Verma,M,23,Marketing,senior Analyst,0,64132,average,70.89,lucknow,2023-12-22,Hybrid,8,36
+1109,Aisha Maurya,male,28,Sales,Analyst,1,28626,excellent,70.29,lucknow,2019-02-25,Hybrid,16,9
+1110,Sneha Gupta,male,53,HR,EXecutive,15,110936,Poor,72.25,Bangalore,2024-03-10,Hybrid,20,34
+1111,aarav Sharma,female,55,Marketing,senior Analyst,11,127179,average,86.07,Pune,2024-12-04,OFFICE,15,26
+1112,aditya Verma,female,26,HR,Analyst,7,128801,GOOD,95.63,DELHI,2018-12-14,Hybrid,16,24
+1113,priya mehta,F,59,Sales,Analyst,17,106515,GOOD,70.15,Pune,2018-06-15,Hybrid,20,20
+1114,Rahul yadav,female,43,finance,senior Analyst,1,102065,excellent,98.1,DELHI,2020-07-25,OFFICE,23,11
+1115,Ananya yadav,Male,45,HR,Intern,12,80390,GOOD,73.19,chennai,2018-12-14,Hybrid,7,11
+1116,Neha Jain,M,39,it,EXecutive,5,41645,average,95.26,chennai,2019-02-02,remote,10,6
+1117,Neha Sharma,female,25,it,EXecutive,5,116960,Poor,84.49,Pune,2019-08-06,remote,23,18
+1118,Kabir Maurya,Female,31,Marketing,Intern,8,79144,excellent,89.78,Mumbai,2022-05-20,Hybrid,1,35
+1119,Riya Gupta,F,32,Sales,senior Analyst,15,38382,GOOD,85.32,HyderaBad,2018-11-04,OFFICE,7,45
+1120,Ananya Verma,Female,30,Marketing,EXecutive,10,29025,average,84.31,Pune,2024-11-18,OFFICE,11,18
+1121,Rahul Maurya,male,28,Marketing,senior Analyst,6,68226,average,95.05,Jaipur,2018-04-09,OFFICE,20,9
+1122,Neha Sharma,M,44,Marketing,senior Analyst,9,104380,excellent,92.68,Jaipur,2021-06-19,Hybrid,30,15
+1123,Karan Maurya,female,48,it,Analyst,9,147971,GOOD,84.5,Bangalore,2018-06-07,Hybrid,0,44
+1124,Rohan singh,Female,56,it,Intern,19,143910,GOOD,73.35,HyderaBad,2019-07-08,remote,22,9
+1125,Ananya Patel,M,57,Marketing,senior Analyst,17,94711,average,73.46,HyderaBad,2019-10-13,OFFICE,12,33
+1126,aditya mehta,male,41,it,manager,19,121055,GOOD,94.05,DELHI,2024-03-24,Hybrid,21,15
+1127,aditya singh,Male,28,Sales,Intern,8,99710,GOOD,85.88,lucknow,2024-10-06,Hybrid,20,9
+1128,Ananya yadav,F,29,Marketing,EXecutive,14,28443,Poor,84.45,Bangalore,2024-04-09,Hybrid,16,36
+1129,Ananya Kumar,M,35,it,Analyst,3,46395,average,90.42,Jaipur,2020-12-04,OFFICE,13,40
+1130,aarav Jain,M,38,HR,EXecutive,7,35725,average,95.77,Jaipur,2022-02-04,OFFICE,13,19
+1131,Sneha Verma,Male,40,Marketing,EXecutive,8,58461,GOOD,88.87,chennai,2024-08-15,remote,15,23
+1132,Riya Sharma,M,26,Marketing,Intern,12,66115,excellent,92.89,DELHI,2023-02-22,OFFICE,16,26
+1133,Neha Kumar,male,32,Sales,EXecutive,8,135084,Poor,92.96,Jaipur,2020-01-04,Hybrid,5,38
+1134,Karan Verma,male,22,finance,senior Analyst,3,121887,GOOD,80.69,Jaipur,2023-05-05,remote,25,21
+1135,Sneha mehta,Male,27,finance,EXecutive,16,108732,excellent,78.22,DELHI,2018-04-02,OFFICE,27,16
+1136,aditya yadav,F,36,Sales,Analyst,15,137145,GOOD,94.03,Jaipur,2024-01-29,OFFICE,6,29
+1137,Aisha mehta,female,23,Sales,Analyst,14,104790,excellent,81.32,lucknow,2022-06-16,OFFICE,25,21
+1138,Karan Patel,Female,23,Sales,manager,2,104557,GOOD,97.1,Mumbai,2021-04-30,OFFICE,25,14
+1139,Aisha Sharma,female,47,finance,Analyst,19,136672,average,72.09,Bangalore,2021-01-05,Hybrid,0,32
+1140,Vivaan Sharma,M,58,Sales,EXecutive,4,96260,Poor,71.75,lucknow,2021-07-28,OFFICE,24,22
+1141,simran Gupta,Female,53,it,Analyst,4,53690,Poor,97.81,lucknow,2021-10-19,Hybrid,14,22
+1142,priya yadav,Male,48,Marketing,Intern,19,26407,excellent,89.45,Mumbai,2018-06-28,Hybrid,19,49
+1143,Karan Kumar,Male,21,Marketing,Analyst,14,98568,GOOD,81.39,chennai,2024-04-04,Hybrid,20,36
+1144,aditya singh,F,28,HR,senior Analyst,17,83560,excellent,92.65,HyderaBad,2018-10-07,remote,17,18
+1145,aditya Patel,Female,57,HR,Intern,14,72340,average,90.17,Bangalore,2020-11-08,Hybrid,29,20
+1146,Riya Maurya,male,52,Marketing,manager,1,42794,GOOD,85.94,chennai,2022-06-07,OFFICE,27,22
+1147,Riya Sharma,Female,57,it,senior Analyst,12,44881,average,72.97,chennai,2019-01-06,remote,25,20
+1148,Riya Patel,M,24,finance,EXecutive,3,111292,average,94.37,lucknow,2022-12-06,OFFICE,12,21
+1149,Neha Sharma,male,50,finance,EXecutive,9,130698,GOOD,95.98,Jaipur,2022-08-31,Hybrid,23,11
+1150,Riya Patel,Male,26,it,EXecutive,12,119952,GOOD,75.17,chennai,2024-03-18,OFFICE,29,16
+1151,Rahul Jain,Female,39,finance,senior Analyst,9,74703,Poor,95.52,Mumbai,2018-10-31,remote,1,38
+1152,Ananya singh,female,52,Sales,senior Analyst,8,69354,Poor,96.34,HyderaBad,2021-09-10,remote,18,14
+1153,simran Kumar,F,29,Marketing,senior Analyst,7,116288,GOOD,86.48,Bangalore,2021-12-31,OFFICE,14,9
+1154,aditya Kumar,female,32,Marketing,Intern,2,103462,GOOD,89.69,Pune,2024-10-21,OFFICE,11,25
+1155,Rohan Verma,F,31,it,Intern,15,144020,Poor,81.47,DELHI,2021-04-08,OFFICE,14,7
+1156,simran Verma,M,36,finance,EXecutive,13,124301,excellent,78.45,Jaipur,2024-08-19,remote,24,23
+1157,Vivaan Maurya,female,21,HR,Analyst,8,143764,GOOD,91.66,Mumbai,2024-08-25,Hybrid,17,49
+1158,aditya Kumar,Female,41,HR,EXecutive,10,39390,excellent,95.86,DELHI,2023-08-24,OFFICE,13,48
+1159,Ananya Sharma,Female,50,finance,manager,2,129403,GOOD,89.62,HyderaBad,2019-10-31,Hybrid,5,39
+1160,Ananya Sharma,female,33,HR,Intern,4,112475,excellent,85.35,HyderaBad,2019-05-15,remote,11,10
+1161,simran Gupta,Female,54,it,senior Analyst,9,52307,GOOD,74.77,Pune,2021-11-15,OFFICE,19,18
+1162,Ananya Jain,M,24,it,Intern,12,121364,GOOD,71.6,chennai,2022-04-22,OFFICE,22,8
+1163,Riya yadav,male,48,finance,senior Analyst,3,119049,GOOD,83.37,lucknow,2019-06-14,remote,29,49
+1164,aditya Sharma,M,58,HR,manager,12,143740,Poor,71.48,lucknow,2023-06-30,OFFICE,29,22
+1165,aarav singh,F,51,it,manager,11,144991,average,87.08,Bangalore,2024-12-14,Hybrid,5,33
+1166,Rahul yadav,M,47,it,Intern,4,49502,average,81.48,Mumbai,2021-05-04,remote,25,39
+1167,Rahul Maurya,F,25,Sales,senior Analyst,9,120599,average,92.72,Mumbai,2020-01-25,remote,29,42
+1168,Rahul singh,Female,45,Sales,manager,8,47486,excellent,79.17,chennai,2024-06-05,OFFICE,8,20
+1169,Rahul Jain,male,23,it,EXecutive,19,136813,GOOD,87.79,HyderaBad,2020-03-25,remote,29,24
+1170,Neha Verma,Female,53,finance,EXecutive,6,63258,Poor,86.13,Bangalore,2019-12-28,OFFICE,24,28
+1171,priya Sharma,Male,24,Marketing,senior Analyst,1,82716,GOOD,70.14,chennai,2020-01-01,OFFICE,25,39
+1172,Aisha Sharma,Female,45,Marketing,Intern,6,122228,excellent,72.17,DELHI,2020-04-07,remote,3,48
+1173,priya singh,F,40,it,manager,7,128920,average,78.71,lucknow,2021-08-24,OFFICE,16,23
+1174,Ananya singh,Female,54,it,Intern,6,106494,GOOD,96.47,lucknow,2023-08-09,Hybrid,1,8
+1175,aarav Sharma,Female,46,it,EXecutive,13,125552,GOOD,74.41,HyderaBad,2020-05-24,Hybrid,15,37
+1176,Aisha Gupta,male,25,finance,manager,18,107768,Poor,91.33,Mumbai,2023-12-19,OFFICE,23,6
+1177,Rahul singh,Female,55,Sales,Intern,4,35748,average,99.2,HyderaBad,2023-06-27,Hybrid,13,17
+1178,Aisha Kumar,male,48,it,Analyst,17,87785,GOOD,93.72,chennai,2022-08-05,OFFICE,25,49
+1179,priya Jain,female,49,it,senior Analyst,19,101050,Poor,77.29,Mumbai,2019-08-31,Hybrid,7,34
+1180,Rohan Sharma,Male,29,HR,senior Analyst,11,47738,average,97.25,Bangalore,2023-09-05,remote,13,38
+1181,simran Gupta,male,58,finance,Analyst,16,99231,average,72.79,chennai,2022-01-17,OFFICE,30,34
+1182,Kabir singh,F,26,it,EXecutive,12,98606,excellent,84.04,Pune,2019-09-27,OFFICE,1,28
+1183,Aisha Sharma,female,39,HR,manager,1,118301,excellent,96.63,DELHI,2021-04-24,OFFICE,15,48
+1184,Ananya Gupta,male,31,Marketing,senior Analyst,12,66662,average,89.24,Jaipur,2019-04-29,OFFICE,3,37
+1185,Sneha Sharma,male,22,it,Analyst,6,143313,average,82.41,Pune,2020-12-10,OFFICE,0,45
+1186,aditya Verma,Male,29,it,Analyst,9,121297,average,78.78,chennai,2023-03-30,OFFICE,22,14
+1187,Karan mehta,F,41,HR,EXecutive,5,107234,excellent,81.25,Pune,2023-08-15,remote,19,22
+1188,Kabir Maurya,M,44,finance,EXecutive,2,40123,excellent,85.27,Mumbai,2019-08-12,remote,26,23
+1189,Arjun singh,M,54,it,Intern,2,125680,average,79.57,Mumbai,2024-03-05,Hybrid,13,11
+1190,Riya Jain,male,42,Marketing,senior Analyst,17,50616,excellent,99.07,Mumbai,2024-04-23,OFFICE,7,23
+1191,Vivaan Maurya,Female,23,it,Intern,10,127682,GOOD,97.99,Pune,2021-05-13,Hybrid,24,28
+1192,Sneha Verma,F,32,Marketing,Analyst,19,36182,excellent,96.12,HyderaBad,2023-05-28,Hybrid,27,19
+1193,Kabir mehta,female,48,Sales,manager,4,115369,excellent,82.65,DELHI,2023-08-21,remote,24,45
+1194,Vivaan mehta,Female,50,Sales,manager,18,123878,average,90.74,HyderaBad,2020-08-06,Hybrid,2,46
+1195,aarav Jain,Female,46,Marketing,EXecutive,18,87013,average,97.08,Mumbai,2023-08-18,remote,4,27
+1196,aarav Kumar,F,41,finance,manager,14,56331,GOOD,95.51,chennai,2023-09-11,Hybrid,5,8
+1197,Neha Maurya,male,48,it,manager,15,71098,GOOD,82.43,chennai,2023-07-01,OFFICE,21,42
+1198,Sneha mehta,male,46,it,manager,8,51128,average,73.37,lucknow,2022-10-08,Hybrid,25,8
+1199,Sneha mehta,male,53,Sales,Analyst,3,56556,GOOD,72.27,HyderaBad,2019-01-22,remote,7,9
+1200,aditya Verma,male,41,Marketing,manager,14,112505,GOOD,87.31,DELHI,2021-06-05,remote,5,45
+1201,Karan Jain,M,55,it,manager,11,46876,Poor,89.28,chennai,2022-11-26,remote,5,48
+1202,Rohan mehta,male,54,it,manager,2,33949,excellent,95.5,lucknow,2022-02-07,Hybrid,3,27
+1203,Sneha Kumar,M,38,finance,Intern,13,76962,Poor,78.78,DELHI,2018-07-26,Hybrid,6,44
+1204,Ananya Patel,M,31,HR,Analyst,16,115054,excellent,75.02,Mumbai,2022-12-24,remote,29,41
+1205,aarav Jain,male,43,Sales,EXecutive,18,148984,GOOD,81.37,HyderaBad,2022-11-16,OFFICE,29,15
+1206,simran singh,Male,42,Sales,Intern,5,96206,GOOD,80.61,Jaipur,2024-07-23,OFFICE,23,15
+1207,Sneha Verma,female,37,HR,senior Analyst,3,49099,Poor,73.97,Bangalore,2020-03-03,Hybrid,18,17
+1208,Vivaan yadav,Female,25,it,Analyst,6,129871,GOOD,90.17,Mumbai,2024-03-31,Hybrid,6,18
+1209,Kabir Maurya,M,31,finance,Analyst,18,37716,GOOD,85.26,chennai,2022-09-21,remote,2,12
+1210,aditya Kumar,F,50,finance,senior Analyst,16,77611,Poor,91.63,Pune,2020-10-02,Hybrid,7,29
+1211,Arjun Maurya,F,35,Sales,senior Analyst,15,63885,GOOD,80.58,Jaipur,2020-07-30,Hybrid,0,22
+1212,Arjun mehta,female,47,finance,senior Analyst,14,78144,GOOD,79.77,Pune,2021-03-11,remote,0,48
+1213,Rahul Sharma,F,55,HR,EXecutive,7,90220,GOOD,84.18,DELHI,2024-02-02,remote,13,48
+1214,Ananya mehta,Male,53,it,manager,18,32837,average,96.32,Pune,2022-08-05,Hybrid,5,22
+1215,Rahul Maurya,F,40,HR,Analyst,7,74355,excellent,71.21,Jaipur,2019-03-25,OFFICE,9,14
+1216,Neha Gupta,Female,36,Marketing,manager,17,72299,excellent,94.14,Jaipur,2019-08-15,Hybrid,24,11
+1217,aarav Jain,Female,54,Sales,manager,15,44159,GOOD,81.07,Mumbai,2018-03-23,OFFICE,27,48
+1218,priya Gupta,M,22,finance,senior Analyst,19,141680,GOOD,95.64,lucknow,2023-12-23,OFFICE,13,18
+1219,Sneha Patel,male,55,Marketing,EXecutive,18,141931,Poor,94.07,Mumbai,2021-11-07,OFFICE,3,19
+1220,Rahul Patel,Male,48,finance,Intern,9,131802,Poor,80.46,DELHI,2022-01-20,remote,5,20
+1221,simran singh,M,59,it,EXecutive,16,141375,average,90.82,chennai,2024-10-23,remote,15,6
+1222,Sneha Jain,Male,26,it,manager,12,127413,average,74.79,Pune,2020-12-15,remote,27,34
+1223,Ananya Verma,male,29,it,EXecutive,12,76012,average,96.89,lucknow,2019-02-23,Hybrid,20,34
+1224,Aisha mehta,F,40,finance,senior Analyst,6,84305,excellent,82.13,HyderaBad,2018-03-29,remote,27,22
+1225,simran singh,F,21,Marketing,Intern,9,112096,average,83.67,Bangalore,2018-08-03,remote,30,35
+1226,aarav Jain,male,28,it,senior Analyst,1,42106,GOOD,91.17,Jaipur,2022-10-25,Hybrid,0,48
+1227,Kabir singh,M,43,Marketing,Intern,3,83123,GOOD,94.63,lucknow,2022-03-01,Hybrid,5,17
+1228,Aisha mehta,male,23,finance,manager,5,136825,average,77.09,chennai,2022-09-14,OFFICE,8,24
+1229,Sneha mehta,female,24,Marketing,Intern,17,33720,GOOD,89.84,HyderaBad,2024-12-25,Hybrid,30,39
+1230,priya mehta,Female,45,finance,Intern,5,62661,average,81.76,lucknow,2024-04-11,Hybrid,14,27
+1231,priya yadav,M,58,finance,Intern,16,140031,GOOD,81.06,Mumbai,2022-02-10,remote,11,46
+1232,Kabir Kumar,Male,35,Sales,EXecutive,13,118898,average,90.7,HyderaBad,2018-11-05,OFFICE,2,37
+1233,Aisha Gupta,female,41,finance,EXecutive,10,118794,excellent,81.62,Bangalore,2018-08-19,OFFICE,10,42
+1234,aarav mehta,M,55,finance,manager,18,112318,average,80.38,chennai,2018-06-04,Hybrid,14,39
+1235,Arjun Sharma,male,34,HR,Intern,1,131704,average,95.08,Jaipur,2021-04-13,remote,2,40
+1236,Kabir Verma,male,56,it,Analyst,2,46120,GOOD,73.04,chennai,2018-04-25,remote,13,24
+1237,simran Maurya,male,32,Sales,manager,10,44790,GOOD,90.28,DELHI,2021-11-14,remote,1,7
+1238,Karan Jain,male,37,Sales,Intern,5,83655,excellent,77.46,DELHI,2018-11-07,remote,28,12
+1239,Rohan Gupta,Male,59,Sales,Intern,13,84643,excellent,70.46,lucknow,2020-09-19,Hybrid,3,44
+1240,aarav yadav,female,29,HR,EXecutive,18,118448,average,75.0,HyderaBad,2024-06-05,remote,25,36
+1241,Kabir Gupta,F,55,finance,manager,15,72374,Poor,88.2,lucknow,2020-11-07,OFFICE,18,33
+1242,Rahul yadav,Female,33,it,Intern,6,67907,GOOD,91.27,Pune,2018-01-12,OFFICE,11,11
+1243,aditya mehta,Male,35,Marketing,Intern,7,75071,average,70.63,Bangalore,2021-11-28,Hybrid,1,6
+1244,aditya Gupta,Male,38,finance,manager,18,145507,average,71.09,Jaipur,2024-03-29,remote,16,25
+1245,Rahul Kumar,F,53,HR,Analyst,19,59812,GOOD,97.08,lucknow,2023-07-07,remote,2,10
+1246,Rohan Gupta,F,26,finance,manager,15,74570,average,72.2,Pune,2019-12-31,remote,9,32
+1247,Kabir Sharma,Female,47,finance,manager,6,75901,average,96.83,HyderaBad,2021-07-25,remote,15,46
+1248,simran Patel,Female,43,HR,Analyst,8,85186,GOOD,76.84,Bangalore,2021-10-08,Hybrid,21,40
+1249,priya mehta,F,47,Sales,manager,12,147066,GOOD,92.2,Jaipur,2023-07-30,remote,8,36
+1250,Arjun Gupta,male,54,Sales,Intern,0,75251,excellent,79.29,DELHI,2024-06-08,Hybrid,10,49
+1251,Sneha Patel,Male,58,it,manager,7,90171,Poor,95.76,Pune,2019-06-25,remote,20,46
+1252,aarav Gupta,M,34,it,Analyst,3,61160,Poor,91.01,HyderaBad,2024-11-22,remote,14,50
+1253,Sneha mehta,Female,56,Sales,senior Analyst,2,44156,average,82.05,Bangalore,2018-03-18,OFFICE,2,13
+1254,Arjun Maurya,Female,28,Marketing,manager,2,101208,excellent,72.29,Pune,2018-01-24,Hybrid,15,15
+1255,priya Patel,F,55,finance,EXecutive,12,104980,GOOD,91.98,lucknow,2020-11-04,OFFICE,29,27
+1256,Vivaan Patel,female,39,Marketing,Intern,7,97320,excellent,88.51,Mumbai,2019-11-07,Hybrid,20,15
+1257,Kabir mehta,M,50,finance,Intern,6,42929,excellent,70.09,DELHI,2024-07-22,remote,20,6
+1258,Arjun singh,M,34,Sales,EXecutive,0,91606,average,70.28,lucknow,2018-06-21,remote,20,7
+1259,Arjun Sharma,Female,40,it,EXecutive,15,113442,Poor,94.26,lucknow,2023-03-08,Hybrid,27,15
+1260,Riya Gupta,male,45,it,manager,5,125154,Poor,77.78,HyderaBad,2019-05-04,OFFICE,11,39
+1261,Rohan Patel,female,44,Marketing,EXecutive,6,87559,average,89.08,HyderaBad,2022-01-25,Hybrid,22,19
+1262,Riya yadav,M,34,it,senior Analyst,11,79205,excellent,83.63,Bangalore,2024-08-22,Hybrid,4,47
+1263,Vivaan Sharma,Female,46,Sales,Analyst,8,135694,GOOD,95.9,HyderaBad,2024-08-16,remote,6,15
+1264,Aisha Patel,M,58,Marketing,EXecutive,10,93475,GOOD,97.51,Pune,2020-01-27,OFFICE,8,35
+1265,Riya Verma,female,43,finance,EXecutive,9,89341,average,99.9,DELHI,2024-11-29,Hybrid,20,32
+1266,aditya Sharma,female,42,it,senior Analyst,0,120377,average,74.61,lucknow,2024-08-26,OFFICE,17,32
+1267,aarav singh,Male,39,HR,Intern,17,67863,GOOD,95.89,Bangalore,2018-06-04,OFFICE,20,36
+1268,Neha Gupta,F,23,it,Intern,3,106837,GOOD,77.98,chennai,2018-09-14,Hybrid,7,29
+1269,Aisha singh,F,39,finance,manager,4,90439,excellent,87.72,chennai,2022-11-15,OFFICE,11,24
+1270,aarav Sharma,Female,29,Marketing,senior Analyst,8,32194,GOOD,85.17,DELHI,2019-11-05,remote,19,32
+1271,Riya mehta,female,48,finance,Analyst,16,96387,GOOD,70.54,HyderaBad,2023-10-17,remote,1,29
+1272,Neha Verma,Male,40,HR,Analyst,2,146361,excellent,97.98,HyderaBad,2024-07-19,remote,9,15
+1273,Rohan singh,Male,27,Sales,senior Analyst,15,106914,GOOD,72.35,Pune,2019-11-04,remote,18,23
+1274,Vivaan singh,M,34,it,Analyst,4,91214,average,90.65,HyderaBad,2024-09-04,OFFICE,8,32
+1275,Sneha Sharma,M,29,Marketing,Intern,15,121176,GOOD,93.55,chennai,2022-01-12,remote,24,5
+1276,Arjun Jain,Male,39,Sales,Analyst,2,124292,excellent,93.86,lucknow,2018-09-16,Hybrid,23,9
+1277,Rohan mehta,M,34,finance,Analyst,19,54777,excellent,74.06,chennai,2018-11-03,remote,7,14
+1278,Arjun mehta,female,58,Marketing,senior Analyst,14,51183,GOOD,83.43,Jaipur,2021-01-23,Hybrid,23,46
+1279,simran Verma,male,56,Sales,senior Analyst,2,52445,GOOD,94.88,lucknow,2018-09-03,Hybrid,23,50
+1280,aditya Kumar,female,37,Marketing,Analyst,19,92038,GOOD,79.08,lucknow,2022-07-17,remote,23,38
+1281,Sneha Patel,Male,50,HR,EXecutive,13,141477,GOOD,84.03,HyderaBad,2018-07-06,remote,0,40
+1282,Arjun Gupta,Male,29,HR,senior Analyst,15,112201,GOOD,78.18,DELHI,2022-12-03,OFFICE,5,6
+1283,Vivaan Jain,female,53,it,manager,16,41198,average,83.91,HyderaBad,2020-07-13,Hybrid,11,22
+1284,Ananya Kumar,M,45,it,manager,19,46411,GOOD,96.64,DELHI,2020-02-24,remote,24,17
+1285,priya Kumar,M,34,HR,Intern,17,75577,average,83.65,DELHI,2022-05-15,OFFICE,23,9
+1286,Ananya mehta,F,31,Marketing,Analyst,17,40867,GOOD,86.68,chennai,2024-09-21,remote,18,24
+1287,priya Kumar,Male,55,HR,EXecutive,13,87501,excellent,82.12,DELHI,2021-09-22,remote,26,6
+1288,Riya singh,Female,34,it,Intern,17,39266,GOOD,83.8,Bangalore,2018-12-07,remote,16,15
+1289,aarav singh,F,50,HR,Analyst,14,64422,GOOD,70.46,Mumbai,2019-07-17,Hybrid,1,34
+1290,Ananya Verma,M,24,HR,senior Analyst,14,60208,Poor,78.51,HyderaBad,2019-10-13,remote,10,36
+1291,aarav yadav,female,24,Marketing,manager,5,133538,average,83.1,Bangalore,2021-04-08,OFFICE,30,36
+1292,Riya yadav,M,48,Sales,EXecutive,14,146544,Poor,89.01,lucknow,2018-03-10,remote,17,42
+1293,simran Gupta,female,28,it,manager,17,56213,Poor,83.5,Bangalore,2022-05-03,remote,22,32
+1294,Aisha Sharma,F,22,Marketing,senior Analyst,3,32367,average,80.13,Pune,2024-08-25,OFFICE,27,14
+1295,Sneha yadav,Male,42,HR,Analyst,7,149158,GOOD,81.64,Jaipur,2023-10-06,OFFICE,21,26
+1296,Karan singh,M,36,HR,senior Analyst,14,104026,GOOD,77.27,DELHI,2021-07-24,Hybrid,10,21
+1297,Karan Sharma,female,49,Sales,senior Analyst,2,60362,Poor,97.73,HyderaBad,2021-01-27,Hybrid,17,26
+1298,aarav Patel,Male,50,it,manager,14,144377,average,85.65,Pune,2020-07-04,Hybrid,7,47
+1299,Karan Maurya,Female,32,it,EXecutive,12,76588,excellent,70.4,HyderaBad,2024-06-30,Hybrid,14,23
+1300,Rohan singh,female,55,finance,senior Analyst,8,63285,average,70.58,chennai,2019-04-06,OFFICE,8,21
+1301,aarav Patel,F,31,it,manager,1,99755,excellent,99.19,Jaipur,2024-02-05,remote,14,28
+1302,Aisha Kumar,Female,41,Sales,EXecutive,7,96846,GOOD,76.64,Pune,2020-04-23,remote,6,40
+1303,aditya Kumar,Female,41,finance,Analyst,19,61307,GOOD,94.17,HyderaBad,2019-07-28,remote,19,36
+1304,Sneha Patel,male,25,finance,Analyst,16,120167,average,71.75,lucknow,2018-04-29,Hybrid,12,50
+1305,aditya mehta,M,40,HR,Intern,12,105280,average,97.63,DELHI,2019-10-08,OFFICE,12,40
+1306,Kabir Gupta,female,57,HR,manager,0,44867,GOOD,96.23,Pune,2022-01-18,OFFICE,0,32
+1307,priya singh,Female,23,it,EXecutive,1,81523,excellent,87.13,lucknow,2023-09-05,OFFICE,19,18
+1308,Aisha Kumar,male,53,finance,senior Analyst,14,109161,GOOD,70.27,DELHI,2022-02-22,remote,3,40
+1309,Ananya Gupta,F,29,HR,Analyst,11,31378,average,77.73,Mumbai,2023-07-25,Hybrid,23,10
+1310,Ananya Gupta,Male,29,Sales,EXecutive,13,109685,GOOD,82.2,lucknow,2020-10-28,OFFICE,3,13
+1311,Sneha Kumar,female,24,HR,manager,1,132669,GOOD,83.8,Bangalore,2020-08-26,Hybrid,3,25
+1312,Sneha Gupta,Female,55,HR,Intern,17,101958,excellent,78.93,HyderaBad,2023-07-04,OFFICE,12,16
+1313,Arjun mehta,M,37,finance,Analyst,6,52926,GOOD,70.99,chennai,2022-03-20,Hybrid,1,34
+1314,Sneha mehta,male,54,finance,EXecutive,5,128215,GOOD,87.7,DELHI,2024-01-06,OFFICE,27,35
+1315,priya singh,Female,44,Marketing,EXecutive,13,123707,average,85.72,Pune,2022-02-20,Hybrid,25,44
+1316,Sneha Verma,M,52,Sales,EXecutive,7,38180,excellent,78.49,Jaipur,2020-11-14,OFFICE,22,8
+1317,Kabir Kumar,Female,21,finance,manager,1,117837,average,71.14,Pune,2019-10-17,OFFICE,14,35
+1318,Arjun mehta,female,28,it,manager,16,143070,GOOD,99.84,Bangalore,2023-05-09,Hybrid,3,31
+1319,Aisha Sharma,female,43,Sales,manager,4,61931,GOOD,84.46,HyderaBad,2019-07-09,Hybrid,26,29
+1320,Rohan Maurya,female,32,Sales,senior Analyst,13,49014,GOOD,92.68,Bangalore,2019-03-01,remote,5,9
+1321,Sneha Jain,F,32,finance,EXecutive,19,139775,average,83.57,Pune,2018-10-20,Hybrid,2,10
+1322,Arjun Kumar,F,35,Sales,Analyst,2,121472,Poor,71.3,chennai,2021-04-23,OFFICE,6,9
+1323,Vivaan mehta,male,39,finance,manager,4,104872,Poor,79.29,HyderaBad,2019-03-07,OFFICE,5,31
+1324,Vivaan Gupta,female,46,HR,manager,15,83502,GOOD,79.6,Jaipur,2018-11-13,Hybrid,2,12
+1325,Rohan Gupta,M,49,Marketing,EXecutive,17,112736,GOOD,95.15,DELHI,2019-02-02,remote,3,13
+1326,Rahul singh,Female,42,HR,manager,16,30470,average,89.63,HyderaBad,2021-09-09,Hybrid,9,19
+1327,Riya Sharma,Male,41,finance,senior Analyst,10,121395,average,78.26,lucknow,2022-05-08,OFFICE,29,40
+1328,Rahul Patel,M,58,finance,senior Analyst,16,39953,excellent,99.03,HyderaBad,2019-08-19,OFFICE,20,45
+1329,aarav yadav,F,40,HR,manager,15,129580,average,79.65,Bangalore,2023-10-25,remote,8,11
+1330,Karan Patel,F,49,it,EXecutive,1,63507,GOOD,99.95,Bangalore,2023-04-28,Hybrid,29,36
+1331,Ananya Maurya,M,24,it,EXecutive,3,143961,excellent,99.88,Bangalore,2020-07-04,OFFICE,5,12
+1332,Aisha singh,F,27,it,EXecutive,6,117969,GOOD,75.74,Jaipur,2024-12-08,OFFICE,28,19
+1333,Rohan Maurya,female,48,finance,Intern,1,116493,GOOD,79.38,HyderaBad,2021-06-09,OFFICE,19,41
+1334,Sneha mehta,male,48,Sales,manager,5,31523,GOOD,84.58,chennai,2020-09-02,Hybrid,26,23
+1335,Arjun singh,Female,24,finance,EXecutive,16,111923,GOOD,89.92,chennai,2020-12-11,Hybrid,10,43
+1336,Sneha singh,male,42,Sales,senior Analyst,6,82190,excellent,85.84,HyderaBad,2021-05-29,remote,6,10
+1337,Rohan Verma,Female,32,HR,Analyst,4,72761,excellent,99.08,chennai,2021-12-22,OFFICE,17,23
+1338,Aisha mehta,Female,23,Marketing,Analyst,4,56169,GOOD,91.72,Mumbai,2021-03-12,OFFICE,3,32
+1339,Ananya Jain,male,42,Sales,EXecutive,19,70641,average,76.36,Jaipur,2023-07-22,remote,4,21
+1340,Rohan Kumar,M,22,it,Analyst,15,47990,GOOD,73.15,DELHI,2018-12-29,OFFICE,3,46
+1341,Sneha Sharma,Female,44,finance,Analyst,18,54661,excellent,90.65,DELHI,2024-08-26,remote,3,23
+1342,aditya Kumar,male,54,HR,Intern,8,38419,excellent,74.75,DELHI,2024-05-07,remote,26,35
+1343,Kabir Sharma,Female,47,it,senior Analyst,4,39457,Poor,93.63,DELHI,2024-06-03,OFFICE,12,15
+1344,Karan Jain,Male,21,HR,senior Analyst,7,92600,GOOD,79.33,DELHI,2018-08-22,Hybrid,15,19
+1345,aarav Maurya,M,28,Marketing,Intern,8,128619,GOOD,79.81,chennai,2022-09-28,Hybrid,24,14
+1346,priya Maurya,female,43,finance,Intern,4,101102,excellent,70.32,Pune,2018-01-27,Hybrid,13,47
+1347,Arjun Gupta,Female,58,finance,Analyst,9,58085,average,91.03,Bangalore,2022-02-03,Hybrid,10,27
+1348,Rahul Gupta,Male,26,Marketing,manager,1,122064,GOOD,73.4,Jaipur,2018-04-03,OFFICE,28,7
+1349,Neha Gupta,female,42,finance,Analyst,8,75654,GOOD,93.19,Pune,2018-11-05,remote,1,7
+1350,Ananya singh,female,45,Sales,Intern,10,31130,excellent,84.76,Jaipur,2018-02-21,remote,21,22
+1351,aditya Patel,Female,38,HR,senior Analyst,3,130723,GOOD,93.53,Mumbai,2018-11-15,OFFICE,13,29
+1352,Karan Verma,male,37,it,Analyst,1,27042,average,87.52,HyderaBad,2023-06-16,Hybrid,23,47
+1353,Kabir Kumar,Female,32,Marketing,manager,5,95134,average,72.47,lucknow,2018-06-30,remote,23,24
+1354,aarav Sharma,Male,26,Sales,Analyst,13,67982,average,92.97,Bangalore,2022-05-12,OFFICE,26,33
+1355,priya Maurya,female,46,it,EXecutive,0,123422,average,72.09,Mumbai,2019-10-09,OFFICE,6,26
+1356,Rahul singh,Female,47,it,Analyst,17,90185,excellent,84.36,Pune,2023-05-16,Hybrid,25,19
+1357,Sneha Kumar,male,28,Marketing,Intern,6,58477,GOOD,75.17,lucknow,2021-07-07,OFFICE,10,43
+1358,Neha mehta,Female,39,Sales,senior Analyst,0,139161,average,92.57,HyderaBad,2024-02-23,remote,3,14
+1359,Riya Maurya,M,21,it,senior Analyst,0,77709,GOOD,97.35,Mumbai,2024-04-21,remote,6,25
+1360,Aisha Jain,male,49,it,Intern,0,53716,average,86.62,HyderaBad,2023-07-18,OFFICE,28,33
+1361,Aisha Gupta,Male,55,Sales,EXecutive,3,103137,excellent,85.81,HyderaBad,2018-12-02,remote,15,36
+1362,Riya mehta,female,34,finance,Intern,3,61018,GOOD,92.92,chennai,2022-04-26,OFFICE,25,14
+1363,Aisha Patel,Female,55,it,Analyst,17,33061,average,70.15,Jaipur,2022-03-06,remote,5,17
+1364,Arjun Jain,male,40,HR,Intern,10,33609,average,97.53,lucknow,2020-09-16,Hybrid,26,27
+1365,Arjun Verma,M,33,Sales,Intern,0,60371,average,75.92,Jaipur,2021-07-02,remote,5,27
+1366,Aisha Gupta,male,58,it,EXecutive,9,135350,excellent,99.52,HyderaBad,2019-05-29,Hybrid,1,35
+1367,Karan Patel,F,28,Marketing,Analyst,8,108021,average,92.09,chennai,2023-07-23,Hybrid,23,8
+1368,Neha Maurya,M,40,HR,manager,3,45805,GOOD,93.23,Mumbai,2018-08-30,OFFICE,7,7
+1369,Kabir Sharma,Male,53,it,manager,5,32857,GOOD,89.69,HyderaBad,2024-01-06,Hybrid,29,25
+1370,Karan Sharma,female,46,HR,senior Analyst,15,36620,Poor,84.15,Pune,2022-09-30,remote,26,6
+1371,priya Patel,Male,59,HR,Intern,1,33177,average,87.15,HyderaBad,2024-11-05,remote,6,8
+1372,Rohan singh,Female,41,finance,senior Analyst,17,55111,excellent,71.39,Jaipur,2024-03-09,Hybrid,26,5
+1373,Rohan Maurya,male,29,HR,EXecutive,9,145770,average,88.72,lucknow,2019-10-30,OFFICE,24,19
+1374,Vivaan singh,F,44,finance,manager,16,113578,excellent,88.78,Mumbai,2019-08-17,Hybrid,23,37
+1375,priya Kumar,M,57,Sales,Intern,12,109181,excellent,96.74,Jaipur,2023-12-19,remote,13,10
+1376,Vivaan mehta,M,37,finance,EXecutive,17,114941,GOOD,85.17,HyderaBad,2018-09-13,remote,8,11
+1377,Riya Verma,male,44,Marketing,EXecutive,12,36826,Poor,72.31,Pune,2022-02-11,Hybrid,14,23
+1378,Neha Gupta,F,41,it,Intern,16,38890,excellent,79.19,Bangalore,2019-07-15,Hybrid,24,48
+1379,Sneha Jain,male,59,Sales,EXecutive,4,107428,average,89.67,chennai,2023-10-12,Hybrid,21,5
+1380,aarav Maurya,Female,59,Sales,Intern,10,142067,excellent,77.18,Pune,2021-08-27,remote,17,43
+1381,aarav Verma,Male,33,Marketing,Intern,6,83031,average,78.42,HyderaBad,2019-02-11,remote,11,23
+1382,Kabir Sharma,M,31,finance,Analyst,9,144440,GOOD,94.61,Pune,2023-02-04,remote,22,49
+1383,Neha Gupta,Female,39,it,senior Analyst,16,137134,average,87.53,chennai,2023-08-25,OFFICE,18,30
+1384,Arjun Kumar,Male,31,finance,EXecutive,14,100020,GOOD,85.26,Bangalore,2022-09-07,remote,12,48
+1385,Rahul Sharma,Female,33,HR,EXecutive,17,30495,average,79.55,Pune,2018-09-16,remote,6,16
+1386,Rohan Sharma,F,21,finance,Analyst,18,53481,Poor,91.93,Bangalore,2019-12-24,OFFICE,24,26
+1387,Vivaan Kumar,M,39,Sales,Analyst,1,36267,average,78.63,HyderaBad,2021-07-06,OFFICE,9,17
+1388,aditya Sharma,male,32,it,Analyst,3,142897,GOOD,92.11,Bangalore,2019-09-06,OFFICE,29,32
+1389,priya yadav,male,28,finance,manager,2,130702,Poor,72.1,Jaipur,2022-08-22,OFFICE,9,18
+1390,Rahul Sharma,Male,28,it,manager,6,31743,excellent,95.94,Jaipur,2023-06-02,OFFICE,1,26
+1391,priya Gupta,female,32,it,manager,17,79800,average,84.99,Bangalore,2020-03-23,OFFICE,13,34
+1392,Rahul singh,F,53,HR,Intern,9,128475,average,83.16,Mumbai,2022-11-22,Hybrid,12,48
+1393,priya yadav,Male,46,HR,EXecutive,6,73773,excellent,88.33,lucknow,2018-11-27,Hybrid,21,24
+1394,priya Gupta,female,59,Sales,senior Analyst,7,82042,GOOD,88.73,Mumbai,2024-01-22,Hybrid,28,48
+1395,priya mehta,Female,48,Marketing,Intern,5,74476,GOOD,73.96,Bangalore,2021-05-01,Hybrid,5,31
+1396,Arjun singh,F,25,it,EXecutive,0,117105,GOOD,92.69,lucknow,2022-03-25,remote,8,42
+1397,aarav Gupta,Female,28,Marketing,EXecutive,3,53552,average,78.28,Jaipur,2021-10-29,OFFICE,12,46
+1398,simran Kumar,M,45,Sales,Analyst,13,90242,GOOD,97.15,lucknow,2019-01-22,remote,8,45
+1399,simran Sharma,F,47,it,Analyst,16,70772,GOOD,94.54,Bangalore,2022-02-27,OFFICE,30,38
+1400,aditya Patel,female,43,it,Intern,19,68730,GOOD,80.39,Jaipur,2022-12-23,OFFICE,12,43
+1401,simran Sharma,M,50,Marketing,Analyst,17,53948,GOOD,94.23,lucknow,2022-12-23,remote,4,45
+1402,aarav Jain,male,43,finance,EXecutive,10,101311,excellent,80.69,lucknow,2022-12-20,Hybrid,13,48
+1403,Vivaan Jain,female,40,HR,Analyst,13,94093,average,73.03,Mumbai,2024-07-03,remote,4,41
+1404,Sneha mehta,Male,38,finance,manager,8,94123,excellent,98.86,lucknow,2022-02-24,remote,8,5
+1405,Arjun Verma,male,38,Marketing,Analyst,14,41535,average,89.58,HyderaBad,2021-05-25,OFFICE,7,19
+1406,Rahul Maurya,male,22,HR,EXecutive,11,91490,GOOD,83.68,Bangalore,2018-11-16,OFFICE,6,36
+1407,aditya Verma,Male,24,finance,Intern,9,71562,GOOD,81.93,DELHI,2019-02-03,OFFICE,7,12
+1408,Aisha Sharma,F,50,HR,senior Analyst,18,144042,average,79.74,DELHI,2023-03-30,Hybrid,21,37
+1409,Rahul Gupta,male,53,it,Analyst,18,114080,GOOD,99.44,DELHI,2018-04-15,remote,2,22
+1410,simran Kumar,female,56,finance,EXecutive,5,83535,GOOD,74.04,Bangalore,2019-11-27,remote,22,49
+1411,aarav yadav,M,38,HR,senior Analyst,19,123991,excellent,79.44,DELHI,2018-11-26,Hybrid,23,33
+1412,Kabir Gupta,male,57,HR,senior Analyst,5,66269,GOOD,84.56,Mumbai,2019-10-22,remote,14,36
+1413,priya Verma,female,39,HR,manager,7,105674,GOOD,84.34,Bangalore,2020-03-31,remote,7,37
+1414,Neha singh,Female,48,finance,senior Analyst,0,67462,excellent,84.14,HyderaBad,2023-05-27,OFFICE,0,9
+1415,Sneha Maurya,female,40,Sales,EXecutive,16,28127,GOOD,75.27,Jaipur,2022-11-29,Hybrid,6,22
+1416,Aisha Verma,M,53,finance,EXecutive,16,48147,excellent,74.35,HyderaBad,2024-06-19,OFFICE,18,14
+1417,Rahul Verma,female,32,Marketing,Analyst,14,70528,GOOD,77.64,Bangalore,2019-04-07,Hybrid,1,40
+1418,Vivaan Verma,Male,35,finance,Analyst,6,102095,excellent,97.44,Bangalore,2022-05-27,OFFICE,13,37
+1419,simran singh,M,59,HR,Analyst,18,138100,excellent,73.39,lucknow,2024-12-08,remote,17,27
+1420,Kabir Verma,F,22,it,senior Analyst,2,93931,excellent,92.72,lucknow,2022-08-03,Hybrid,29,44
+1421,Ananya Kumar,Female,49,finance,senior Analyst,10,115925,Poor,92.73,lucknow,2024-09-23,Hybrid,14,9
+1422,Rahul Sharma,Male,30,finance,manager,19,91381,excellent,94.29,chennai,2023-09-06,OFFICE,13,38
+1423,Riya yadav,F,22,HR,Analyst,18,124468,average,96.6,chennai,2018-09-28,Hybrid,23,28
+1424,Arjun singh,female,31,it,Intern,8,136258,excellent,77.89,Pune,2024-12-23,remote,24,21
+1425,aarav Gupta,M,33,it,manager,9,88749,Poor,76.74,chennai,2019-01-20,remote,18,35
+1426,Rohan Patel,Female,30,Marketing,Intern,1,63672,excellent,83.97,Mumbai,2018-03-01,remote,29,11
+1427,Arjun Jain,Male,34,finance,senior Analyst,0,38731,Poor,77.95,Bangalore,2021-02-04,OFFICE,18,21
+1428,aarav mehta,F,38,it,manager,15,149647,average,92.03,HyderaBad,2018-08-08,Hybrid,21,32
+1429,aarav Patel,F,29,it,manager,17,79512,excellent,89.08,Bangalore,2022-01-04,OFFICE,26,42
+1430,Riya Gupta,Female,59,Sales,EXecutive,16,123658,average,96.25,lucknow,2023-03-22,remote,25,26
+1431,Vivaan Maurya,female,48,Sales,senior Analyst,5,76024,GOOD,72.48,Bangalore,2022-05-15,Hybrid,16,19
+1432,priya Verma,Female,23,it,senior Analyst,13,141712,GOOD,97.45,Jaipur,2018-04-06,remote,21,41
+1433,Rohan singh,F,40,Marketing,manager,14,126121,average,78.8,chennai,2020-09-15,Hybrid,27,19
+1434,Kabir Kumar,male,26,it,senior Analyst,13,28832,Poor,84.72,Bangalore,2021-01-17,Hybrid,18,29
+1435,Sneha yadav,Male,47,HR,manager,2,57332,GOOD,83.16,HyderaBad,2023-04-30,OFFICE,26,25
+1436,Kabir Maurya,Female,22,finance,EXecutive,18,37467,GOOD,92.81,DELHI,2024-03-28,Hybrid,15,42
+1437,Riya Patel,F,49,Marketing,manager,11,66025,average,82.61,Jaipur,2020-08-25,remote,19,6
+1438,Riya Patel,female,58,HR,senior Analyst,1,38107,average,98.31,Jaipur,2024-05-11,Hybrid,24,31
+1439,Riya Kumar,F,23,Marketing,senior Analyst,2,102994,average,97.08,Bangalore,2018-09-03,remote,18,36
+1440,aditya singh,female,36,HR,manager,17,119202,average,96.16,Pune,2023-11-29,OFFICE,0,25
+1441,Neha Verma,Female,50,finance,manager,0,68481,GOOD,72.14,lucknow,2018-08-22,remote,18,8
+1442,Rohan mehta,female,22,finance,manager,19,27581,Poor,95.63,Mumbai,2024-09-30,Hybrid,6,48
+1443,aditya singh,M,37,Sales,Analyst,5,100118,excellent,93.45,Mumbai,2021-02-25,remote,28,23
+1444,priya Gupta,M,32,HR,senior Analyst,4,149010,GOOD,73.11,DELHI,2021-06-14,remote,22,6
+1445,Vivaan mehta,M,55,Sales,senior Analyst,0,76638,GOOD,73.22,Mumbai,2020-03-13,Hybrid,10,30
+1446,Rohan Maurya,male,21,HR,Analyst,18,148714,GOOD,73.03,Mumbai,2021-11-18,remote,4,38
+1447,priya Maurya,Female,35,Sales,manager,0,33418,excellent,70.34,lucknow,2024-11-27,Hybrid,29,18
+1448,aarav Gupta,F,46,finance,EXecutive,15,118627,average,86.46,chennai,2019-10-17,OFFICE,16,19
+1449,Karan mehta,F,57,Marketing,manager,11,54113,GOOD,99.2,lucknow,2024-09-08,remote,10,24
+1450,simran Verma,male,41,Sales,manager,7,109363,GOOD,83.16,Pune,2018-04-21,OFFICE,23,38
+1451,aarav mehta,female,51,HR,Analyst,15,148607,average,86.22,HyderaBad,2018-03-31,remote,25,40
+1452,Rohan Kumar,male,45,HR,senior Analyst,0,88044,GOOD,99.04,DELHI,2020-02-02,remote,7,23
+1453,Arjun Kumar,female,43,finance,manager,3,104955,excellent,77.66,Mumbai,2021-07-27,OFFICE,9,13
+1454,Kabir Kumar,female,44,HR,senior Analyst,9,86030,excellent,95.75,Pune,2021-09-18,remote,11,11
+1455,Rahul Jain,Male,58,it,Intern,10,36814,Poor,86.39,DELHI,2023-12-20,remote,9,34
+1456,simran Sharma,F,48,Marketing,senior Analyst,16,124340,excellent,87.08,Jaipur,2020-11-02,OFFICE,12,17
+1457,Arjun Patel,M,41,Sales,EXecutive,6,35024,GOOD,80.3,Mumbai,2024-11-09,remote,25,31
+1458,aarav Jain,female,38,Marketing,EXecutive,11,88288,GOOD,86.85,Mumbai,2022-01-04,Hybrid,17,48
+1459,aarav singh,Male,56,finance,manager,6,134236,GOOD,72.19,lucknow,2018-04-08,remote,9,39
+1460,Rohan Patel,F,55,Sales,senior Analyst,11,82836,excellent,92.94,Bangalore,2021-02-17,remote,18,17
+1461,Kabir Jain,M,29,Sales,manager,14,32435,GOOD,78.54,DELHI,2018-10-20,remote,19,19
+1462,Rahul mehta,female,58,it,Analyst,1,92084,GOOD,96.63,Mumbai,2023-01-14,OFFICE,16,50
+1463,Aisha yadav,female,50,finance,EXecutive,13,149023,Poor,81.04,chennai,2022-10-01,Hybrid,19,13
+1464,simran Jain,male,54,HR,manager,12,95601,excellent,74.28,DELHI,2020-10-21,Hybrid,15,49
+1465,Vivaan mehta,male,52,it,Analyst,3,113416,GOOD,90.88,HyderaBad,2024-04-16,remote,4,27
+1466,simran Jain,F,23,it,manager,13,145871,GOOD,74.94,chennai,2019-10-14,OFFICE,2,40
+1467,aditya yadav,M,23,Marketing,senior Analyst,13,143645,GOOD,92.61,Pune,2024-01-06,OFFICE,29,44
+1468,aditya yadav,female,48,Marketing,senior Analyst,15,28407,average,99.04,chennai,2023-09-23,Hybrid,26,7
+1469,simran Verma,F,35,Marketing,senior Analyst,6,123943,GOOD,93.39,Pune,2023-03-22,OFFICE,14,38
+1470,Arjun Maurya,F,43,it,senior Analyst,18,57940,GOOD,70.67,Bangalore,2022-09-18,remote,25,23
+1471,aditya singh,Female,31,HR,Intern,1,30666,average,88.0,Mumbai,2020-12-03,remote,1,32
+1472,Kabir Kumar,male,52,Sales,Analyst,9,62122,GOOD,90.86,chennai,2024-01-19,OFFICE,12,27
+1473,Sneha Gupta,M,56,Marketing,Analyst,17,143647,GOOD,94.76,HyderaBad,2022-12-22,remote,21,44
+1474,Aisha mehta,female,53,HR,senior Analyst,16,50092,excellent,71.68,lucknow,2018-09-10,Hybrid,7,49
+1475,Sneha Kumar,F,44,finance,Intern,4,148402,excellent,84.4,Mumbai,2018-05-12,remote,22,11
+1476,aarav yadav,female,59,Marketing,senior Analyst,11,100645,excellent,86.06,DELHI,2023-03-23,OFFICE,26,45
+1477,Rahul mehta,Female,54,Sales,Intern,5,126190,excellent,75.07,Jaipur,2023-03-26,Hybrid,29,16
+1478,simran Kumar,M,48,finance,senior Analyst,8,125468,GOOD,79.67,Pune,2024-11-26,remote,16,18
+1479,aarav Patel,F,57,finance,EXecutive,19,51505,average,83.21,DELHI,2022-08-07,Hybrid,3,50
+1480,Karan Patel,female,27,Sales,EXecutive,0,61713,GOOD,95.0,Bangalore,2021-02-06,OFFICE,18,19
+1481,Arjun singh,male,24,Marketing,manager,14,79387,GOOD,97.88,Pune,2020-11-24,remote,21,7
+1482,Karan Verma,Female,57,it,senior Analyst,5,68169,excellent,88.85,lucknow,2023-04-10,remote,24,19
+1483,Kabir Patel,M,21,Sales,Analyst,18,98282,GOOD,81.85,Pune,2024-05-11,Hybrid,8,28
+1484,Kabir Maurya,Female,21,Sales,manager,17,102511,excellent,77.62,Jaipur,2018-07-06,remote,22,50
+1485,Vivaan Jain,male,40,Sales,EXecutive,5,76742,Poor,99.46,chennai,2020-08-06,remote,14,12
+1486,Riya Sharma,M,39,finance,senior Analyst,12,65522,average,99.49,HyderaBad,2024-04-09,remote,27,9
+1487,Aisha singh,Female,49,HR,manager,0,106132,Poor,97.75,chennai,2018-09-21,remote,8,8
+1488,Arjun Kumar,Male,30,it,senior Analyst,12,144622,average,93.57,Mumbai,2023-06-21,OFFICE,23,18
+1489,priya Maurya,male,38,Marketing,EXecutive,6,143764,GOOD,79.77,Jaipur,2019-06-06,remote,20,20
+1490,Ananya mehta,male,48,Marketing,manager,14,128489,GOOD,94.51,HyderaBad,2022-04-14,Hybrid,8,24
+1491,Vivaan Jain,male,55,HR,EXecutive,11,124397,excellent,82.26,Jaipur,2020-02-22,OFFICE,13,28
+1492,Neha Maurya,Male,51,Sales,Intern,0,28880,GOOD,79.8,Mumbai,2019-06-19,Hybrid,22,10
+1493,priya Kumar,Male,47,it,EXecutive,14,68454,Poor,92.35,Pune,2018-07-29,Hybrid,20,35
+1494,aarav Gupta,female,31,Marketing,senior Analyst,3,80711,excellent,72.39,Bangalore,2023-09-25,Hybrid,15,10
+1495,Rahul Gupta,F,58,Marketing,Analyst,12,68539,average,71.46,Mumbai,2022-04-13,OFFICE,30,39
+1496,Rahul Maurya,Female,25,Sales,EXecutive,4,133984,GOOD,83.44,Mumbai,2018-01-26,OFFICE,23,19
+1497,Sneha Patel,female,28,HR,Analyst,1,93321,average,83.37,HyderaBad,2018-06-24,OFFICE,30,33
+1498,simran Jain,Female,54,it,Intern,0,112985,Poor,96.87,lucknow,2022-03-20,remote,22,7
+1499,Sneha Kumar,F,32,HR,manager,15,39799,average,73.78,chennai,2021-08-27,Hybrid,24,15
+1500,Sneha singh,Male,58,HR,manager,5,139584,average,73.7,Pune,2018-11-18,OFFICE,25,7
+1501,aditya Jain,F,21,it,Analyst,15,129843,GOOD,74.42,Mumbai,2022-05-22,Hybrid,16,32
+1502,priya Patel,Male,51,it,manager,13,85102,average,70.89,Bangalore,2021-03-04,OFFICE,30,14
+1503,Riya Maurya,F,24,Marketing,EXecutive,2,75726,Poor,72.15,DELHI,2018-02-24,OFFICE,12,37
+1504,Vivaan Patel,female,25,Marketing,Analyst,14,73784,average,89.8,Pune,2022-04-16,OFFICE,8,20
+1505,Aisha Patel,M,50,it,senior Analyst,2,145364,average,82.95,lucknow,2022-05-29,Hybrid,14,14
+1506,Kabir Maurya,female,44,finance,EXecutive,1,138034,average,92.91,Jaipur,2023-02-16,remote,6,37
+1507,Rahul Sharma,Female,23,Marketing,EXecutive,0,68333,average,99.78,Mumbai,2024-01-04,OFFICE,0,40
+1508,simran Jain,female,31,finance,EXecutive,8,65828,GOOD,89.77,Bangalore,2022-02-17,OFFICE,0,7
+1509,Rahul singh,male,24,it,senior Analyst,8,94526,average,71.51,Pune,2023-08-30,OFFICE,4,9
+1510,simran Kumar,Female,46,Marketing,Intern,6,79362,GOOD,73.14,Bangalore,2018-11-29,remote,23,16
+1511,Vivaan Jain,F,47,HR,manager,2,78997,excellent,96.43,Bangalore,2022-04-28,Hybrid,8,48
+1512,Arjun singh,Female,47,it,Analyst,17,148973,GOOD,85.82,chennai,2020-06-25,Hybrid,11,17
+1513,Rohan Gupta,M,26,Sales,Intern,10,75341,GOOD,94.75,HyderaBad,2020-06-29,Hybrid,5,28
+1514,Rahul mehta,Male,35,finance,Analyst,6,44073,excellent,95.7,Jaipur,2019-02-05,Hybrid,27,48
+1515,Rahul Patel,F,50,it,manager,8,127399,excellent,97.83,lucknow,2020-08-07,OFFICE,12,36
+1516,aditya Patel,Female,57,it,senior Analyst,0,39549,GOOD,98.49,chennai,2021-08-22,remote,25,20
+1517,aarav Patel,F,57,Marketing,EXecutive,13,108795,excellent,86.64,Pune,2023-09-07,OFFICE,27,36
+1518,aarav Sharma,F,57,Marketing,EXecutive,19,81920,GOOD,80.23,Mumbai,2024-11-19,remote,7,49
+1519,Arjun Maurya,F,55,Marketing,senior Analyst,5,110326,average,98.86,lucknow,2023-03-26,Hybrid,14,41
+1520,priya Patel,Male,43,Sales,Intern,6,100515,Poor,86.42,Mumbai,2018-04-11,remote,5,40
+1521,Rohan singh,female,26,Marketing,Intern,9,45316,average,71.93,DELHI,2019-07-05,OFFICE,26,25
+1522,aarav Maurya,F,24,it,Analyst,6,51183,Poor,89.28,Bangalore,2024-07-28,OFFICE,5,16
+1523,Vivaan Jain,male,38,Marketing,senior Analyst,1,118860,average,87.63,DELHI,2022-09-02,Hybrid,3,25
+1524,Arjun Gupta,M,29,HR,Intern,3,49624,GOOD,96.87,HyderaBad,2024-06-01,OFFICE,10,25
+1525,Sneha mehta,Male,49,Marketing,senior Analyst,16,87515,average,89.6,Bangalore,2018-12-19,OFFICE,20,47
+1526,Aisha Verma,Female,33,Sales,manager,0,128712,average,80.47,Jaipur,2020-10-15,remote,29,10
+1527,Rohan Jain,Male,37,HR,EXecutive,9,110781,GOOD,98.99,lucknow,2021-03-25,OFFICE,17,13
+1528,Vivaan Patel,Female,52,it,EXecutive,18,71705,excellent,94.05,Mumbai,2021-01-02,Hybrid,2,5
+1529,aarav Gupta,Male,42,it,EXecutive,14,114326,average,88.91,chennai,2024-11-07,Hybrid,2,16
+1530,Karan Sharma,Female,24,finance,senior Analyst,9,51756,excellent,78.79,HyderaBad,2020-09-06,OFFICE,29,18
+1531,Karan Jain,F,25,HR,senior Analyst,18,85390,average,81.21,Jaipur,2021-09-17,Hybrid,11,10
+1532,Rahul yadav,female,57,finance,Analyst,11,93369,excellent,90.1,Mumbai,2020-01-09,remote,26,5
+1533,aditya Sharma,Female,33,HR,EXecutive,15,95821,GOOD,72.16,lucknow,2020-09-03,remote,20,26
+1534,priya Verma,Female,54,HR,Analyst,8,34589,GOOD,77.7,Pune,2021-10-03,OFFICE,29,38
+1535,simran Gupta,male,42,Sales,EXecutive,14,138012,excellent,91.42,HyderaBad,2024-03-30,OFFICE,20,15
+1536,Riya Kumar,Female,43,finance,Analyst,16,39116,GOOD,84.4,DELHI,2022-12-07,remote,5,7
+1537,Vivaan singh,male,23,Sales,Analyst,13,98181,average,82.07,DELHI,2023-11-20,Hybrid,20,46
+1538,aditya Sharma,M,54,HR,manager,17,69786,average,74.54,chennai,2020-08-10,OFFICE,27,10
+1539,Riya Maurya,F,52,it,Analyst,1,119686,average,83.26,Mumbai,2019-04-26,OFFICE,5,10
+1540,Aisha Jain,male,41,HR,senior Analyst,3,148711,GOOD,93.12,Mumbai,2021-05-22,Hybrid,7,24
+1541,Neha Kumar,female,41,Sales,Analyst,17,101425,average,77.92,Mumbai,2018-04-18,OFFICE,14,25
+1542,priya singh,F,31,finance,EXecutive,6,55286,GOOD,70.16,HyderaBad,2020-08-30,Hybrid,17,6
+1543,priya Gupta,male,59,finance,Analyst,12,128081,GOOD,90.06,lucknow,2022-06-15,Hybrid,19,30
+1544,priya singh,F,24,Sales,Intern,14,40994,excellent,99.18,Pune,2019-12-05,Hybrid,28,35
+1545,Neha mehta,F,21,finance,EXecutive,0,126039,GOOD,88.2,DELHI,2024-07-10,Hybrid,15,30
+1546,simran Patel,F,48,Marketing,Intern,10,136915,GOOD,73.6,Jaipur,2023-11-04,Hybrid,5,36
+1547,Karan mehta,M,44,it,EXecutive,9,147961,excellent,79.62,Bangalore,2020-05-24,remote,27,14
+1548,Karan Verma,female,55,it,senior Analyst,4,115198,average,96.03,HyderaBad,2021-12-18,Hybrid,20,27
+1549,Riya Jain,Male,33,it,senior Analyst,15,129672,average,76.98,HyderaBad,2024-08-08,remote,16,10
+1550,Sneha Jain,Male,54,finance,senior Analyst,10,51639,GOOD,88.23,lucknow,2023-10-09,Hybrid,8,27
+1551,simran singh,male,31,finance,Intern,5,42205,excellent,82.08,DELHI,2021-06-27,OFFICE,18,32
+1552,Rohan Maurya,F,56,HR,manager,8,81677,GOOD,76.24,chennai,2019-07-14,remote,17,34
+1553,aarav yadav,male,37,HR,EXecutive,12,57930,GOOD,94.4,Pune,2018-04-27,OFFICE,24,18
+1554,Kabir Sharma,M,55,it,senior Analyst,7,98313,average,92.28,lucknow,2020-05-23,Hybrid,22,41
+1555,Karan Sharma,M,38,Marketing,EXecutive,13,118851,GOOD,89.85,Jaipur,2020-08-25,Hybrid,4,36
+1556,aarav yadav,Female,42,HR,Intern,0,138153,average,77.09,DELHI,2022-04-18,OFFICE,27,38
+1557,Vivaan Gupta,M,44,HR,manager,16,117509,average,72.94,lucknow,2018-02-13,Hybrid,5,45
+1558,Riya Jain,Female,39,finance,Intern,4,43316,GOOD,87.28,DELHI,2019-05-24,OFFICE,11,48
+1559,aditya yadav,female,57,Marketing,EXecutive,1,52304,Poor,86.61,DELHI,2023-07-05,Hybrid,10,26
+1560,aditya Maurya,male,59,it,manager,8,126839,GOOD,75.65,chennai,2021-04-03,Hybrid,15,35
+1561,Rahul singh,female,41,HR,manager,3,121058,GOOD,71.69,HyderaBad,2021-08-08,remote,19,11
+1562,Sneha singh,M,28,Marketing,Intern,16,112876,GOOD,72.42,Pune,2020-04-28,OFFICE,16,45
+1563,Riya mehta,female,48,Marketing,senior Analyst,16,110366,excellent,99.78,HyderaBad,2023-02-23,Hybrid,19,25
+1564,Ananya Sharma,female,25,it,EXecutive,17,38403,excellent,93.51,Bangalore,2020-07-05,OFFICE,8,20
+1565,Ananya yadav,female,37,Marketing,Analyst,15,105052,GOOD,97.66,Pune,2020-03-09,remote,0,24
+1566,Neha Patel,M,57,Marketing,Analyst,7,142478,average,75.85,DELHI,2020-05-25,OFFICE,25,47
+1567,Rohan Maurya,F,56,Marketing,Intern,10,109627,Poor,98.82,lucknow,2022-10-27,remote,2,48
+1568,Karan Sharma,female,39,HR,EXecutive,17,98495,average,74.28,Jaipur,2024-05-22,OFFICE,30,23
+1569,Rohan Gupta,Female,47,it,EXecutive,9,56932,excellent,85.27,chennai,2020-03-29,OFFICE,30,36
+1570,Neha yadav,M,54,Marketing,Intern,12,121090,average,94.89,Pune,2023-12-09,remote,20,19
+1571,aarav Patel,female,31,Marketing,EXecutive,16,61701,average,80.49,Bangalore,2020-08-02,Hybrid,22,9
+1572,Rahul Verma,F,32,HR,senior Analyst,17,28385,average,82.74,DELHI,2020-06-25,Hybrid,8,15
+1573,Arjun Gupta,M,41,it,Intern,9,146324,average,73.85,Jaipur,2018-01-13,Hybrid,21,19
+1574,Neha mehta,Male,31,finance,senior Analyst,15,124226,average,73.69,Pune,2019-08-26,OFFICE,18,33
+1575,aarav Maurya,F,59,HR,EXecutive,19,82241,GOOD,88.59,HyderaBad,2018-07-19,OFFICE,12,49
+1576,Rahul Patel,Female,48,it,Intern,4,35367,average,90.27,HyderaBad,2022-11-27,Hybrid,22,8
+1577,Rohan Jain,female,25,Marketing,EXecutive,12,90030,GOOD,93.32,Pune,2019-03-24,OFFICE,30,40
+1578,Ananya Jain,Male,37,it,Intern,17,71505,Poor,86.7,Pune,2022-12-17,OFFICE,13,27
+1579,Kabir Jain,Male,40,it,EXecutive,16,149462,excellent,89.37,Pune,2020-04-20,Hybrid,19,19
+1580,priya Patel,M,32,it,senior Analyst,8,58332,excellent,70.41,Jaipur,2019-08-13,remote,18,50
+1581,Aisha Verma,Male,26,finance,senior Analyst,13,110178,excellent,74.87,HyderaBad,2021-02-27,OFFICE,29,48
+1582,Neha singh,Female,37,it,EXecutive,16,101325,average,99.55,lucknow,2023-09-22,OFFICE,22,7
+1583,aditya Patel,Female,39,finance,Intern,3,60268,GOOD,72.28,Bangalore,2019-06-04,OFFICE,26,36
+1584,Ananya mehta,male,46,Marketing,Analyst,17,111486,GOOD,90.36,Bangalore,2020-11-02,OFFICE,26,14
+1585,Neha Gupta,Female,52,finance,senior Analyst,19,50563,Poor,75.28,chennai,2019-12-26,remote,6,44
+1586,Ananya mehta,F,26,Marketing,senior Analyst,14,130185,Poor,91.5,DELHI,2020-09-14,Hybrid,3,42
+1587,Riya Maurya,Male,56,Marketing,Analyst,10,61404,GOOD,91.18,Mumbai,2020-03-13,OFFICE,11,26
+1588,Rahul Jain,Female,58,finance,EXecutive,11,80182,GOOD,77.03,lucknow,2024-06-07,Hybrid,22,18
+1589,Sneha mehta,M,31,HR,Intern,8,57991,average,78.09,HyderaBad,2019-06-11,OFFICE,26,21
+1590,simran mehta,male,53,Sales,EXecutive,12,129601,Poor,89.64,DELHI,2022-07-24,remote,13,25
+1591,Rohan Jain,Male,44,it,manager,14,72663,GOOD,81.7,chennai,2021-02-12,Hybrid,1,19
+1592,simran Verma,male,43,Sales,senior Analyst,14,90886,average,75.84,DELHI,2019-04-05,remote,0,19
+1593,Karan Sharma,Male,35,it,manager,4,147002,GOOD,91.95,Pune,2024-12-27,OFFICE,27,5
+1594,Kabir Jain,M,47,it,senior Analyst,18,108848,average,74.62,Mumbai,2020-07-20,remote,30,28
+1595,Aisha Patel,male,31,Marketing,senior Analyst,19,49127,average,95.67,HyderaBad,2023-06-10,remote,17,16
+1596,Ananya Gupta,female,37,it,manager,13,82692,GOOD,85.44,Mumbai,2018-11-21,OFFICE,19,14
+1597,Riya Gupta,F,34,it,manager,16,119389,excellent,73.17,lucknow,2019-08-02,OFFICE,7,50
+1598,Riya mehta,F,47,finance,EXecutive,17,62500,Poor,90.82,Mumbai,2022-03-18,Hybrid,2,46
+1599,aarav mehta,Male,38,Sales,manager,2,58785,average,85.57,DELHI,2024-12-24,OFFICE,30,46
+1600,Karan Maurya,female,48,finance,EXecutive,1,109146,excellent,78.94,Mumbai,2023-06-24,Hybrid,25,35
+1601,aditya Jain,male,24,it,EXecutive,0,114126,average,82.68,Mumbai,2024-07-09,remote,30,15
+1602,Karan Maurya,female,27,Marketing,EXecutive,9,119979,average,78.95,Bangalore,2024-05-20,remote,5,20
+1603,Neha yadav,female,55,finance,senior Analyst,18,72997,GOOD,77.89,HyderaBad,2019-04-20,Hybrid,21,13
+1604,aarav Gupta,male,29,finance,senior Analyst,16,32170,average,74.91,HyderaBad,2020-12-13,OFFICE,12,18
+1605,priya mehta,M,28,HR,manager,11,38303,GOOD,80.88,DELHI,2022-01-21,OFFICE,8,23
+1606,simran Patel,female,37,it,senior Analyst,0,96743,Poor,77.53,Jaipur,2022-05-22,remote,8,35
+1607,Rahul yadav,female,37,Marketing,manager,11,102852,excellent,90.5,Mumbai,2021-12-14,Hybrid,19,13
+1608,Karan Sharma,M,53,finance,senior Analyst,16,60187,excellent,90.52,Mumbai,2019-09-24,remote,8,40
+1609,Kabir Maurya,female,52,finance,Intern,2,90034,excellent,85.06,Pune,2019-12-04,remote,30,43
+1610,Sneha singh,female,28,Marketing,Intern,10,96776,average,93.34,HyderaBad,2024-09-22,OFFICE,14,30
+1611,Riya Gupta,female,39,it,manager,16,26893,average,95.24,Mumbai,2020-09-08,Hybrid,12,12
+1612,Kabir Kumar,F,58,HR,senior Analyst,2,38753,average,87.39,HyderaBad,2021-08-20,remote,21,28
+1613,priya Kumar,Female,23,finance,senior Analyst,7,63090,average,88.57,Mumbai,2023-05-13,OFFICE,15,12
+1614,Arjun Patel,M,25,HR,EXecutive,19,89922,GOOD,78.49,Bangalore,2019-07-13,remote,1,23
+1615,Karan Gupta,female,33,Sales,Analyst,3,101768,Poor,96.85,DELHI,2018-08-10,remote,25,34
+1616,Arjun Kumar,F,51,it,manager,6,84412,GOOD,70.73,HyderaBad,2022-04-06,OFFICE,13,26
+1617,aditya Patel,M,36,Sales,Analyst,13,147406,average,80.46,lucknow,2024-01-15,OFFICE,26,13
+1618,Karan mehta,Male,52,Sales,Analyst,13,81030,GOOD,91.65,DELHI,2018-12-14,Hybrid,5,48
+1619,Neha Maurya,Male,42,Sales,manager,3,42509,average,72.4,Pune,2021-03-28,remote,1,8
+1620,Vivaan yadav,female,49,it,senior Analyst,15,93653,average,75.5,DELHI,2020-06-07,Hybrid,7,41
+1621,Vivaan Verma,F,42,it,manager,0,61929,average,87.68,Mumbai,2020-07-10,OFFICE,3,12
+1622,Neha Sharma,F,23,Marketing,Analyst,16,73291,excellent,86.8,Pune,2021-06-12,OFFICE,20,5
+1623,Neha singh,M,30,HR,senior Analyst,9,29042,GOOD,92.17,DELHI,2019-02-09,remote,23,32
+1624,Rahul Jain,M,41,HR,Intern,15,87574,GOOD,94.38,chennai,2021-07-04,Hybrid,13,10
+1625,Karan yadav,F,36,Marketing,manager,15,62201,average,73.86,Pune,2019-11-08,Hybrid,10,40
+1626,Ananya Maurya,M,32,Marketing,manager,7,117282,GOOD,70.55,chennai,2019-08-12,remote,23,15
+1627,priya Jain,F,22,Sales,senior Analyst,6,39016,Poor,90.69,lucknow,2022-06-09,remote,27,9
+1628,aarav Sharma,Female,44,Marketing,Intern,5,50022,GOOD,79.04,DELHI,2024-12-01,Hybrid,13,28
+1629,Rohan Maurya,F,55,finance,Intern,15,125962,GOOD,88.78,HyderaBad,2024-12-09,OFFICE,11,22
+1630,Arjun Verma,Male,50,HR,senior Analyst,19,52938,average,74.52,HyderaBad,2022-05-14,OFFICE,15,24
+1631,priya Sharma,M,50,Marketing,EXecutive,15,68678,GOOD,84.07,Jaipur,2019-07-20,remote,5,32
+1632,Sneha Sharma,F,55,finance,manager,6,143171,Poor,85.13,Mumbai,2019-12-05,Hybrid,19,17
+1633,Ananya Kumar,F,39,finance,manager,8,126248,average,87.55,chennai,2020-05-07,Hybrid,30,9
+1634,aarav Patel,M,28,finance,Analyst,13,86720,GOOD,85.4,Pune,2021-07-08,Hybrid,0,34
+1635,Rahul Maurya,Female,46,finance,senior Analyst,10,130514,excellent,84.87,Jaipur,2019-08-08,OFFICE,11,5
+1636,Aisha Jain,Female,27,Sales,Analyst,13,81805,GOOD,79.98,Jaipur,2018-08-20,OFFICE,6,26
+1637,aarav yadav,M,50,finance,Analyst,6,99323,GOOD,72.14,Bangalore,2024-05-06,Hybrid,7,22
+1638,aarav yadav,male,27,Sales,Intern,0,26986,average,72.69,chennai,2021-05-30,Hybrid,8,50
+1639,aditya Jain,M,23,Sales,manager,12,101478,GOOD,83.01,Pune,2018-02-21,remote,1,9
+1640,aditya Sharma,M,21,finance,Analyst,19,107994,GOOD,80.67,Jaipur,2023-12-04,remote,16,35
+1641,Rohan Jain,Female,56,HR,Intern,2,37161,excellent,85.48,Bangalore,2019-06-22,Hybrid,19,10
+1642,aditya Verma,Female,45,finance,senior Analyst,19,45689,excellent,79.15,Jaipur,2019-06-25,Hybrid,12,31
+1643,aarav singh,M,57,finance,Analyst,3,119699,GOOD,90.64,Mumbai,2020-11-08,OFFICE,4,29
+1644,Kabir Verma,M,21,finance,manager,10,85924,average,95.92,lucknow,2020-03-25,Hybrid,9,33
+1645,Vivaan Maurya,M,35,HR,Analyst,1,126311,average,78.97,chennai,2021-11-16,remote,11,32
+1646,Aisha Sharma,Female,57,it,senior Analyst,13,124273,average,75.79,Bangalore,2022-07-11,OFFICE,16,20
+1647,Vivaan Maurya,M,33,it,Analyst,11,99308,average,73.49,lucknow,2019-02-23,remote,20,16
+1648,aditya Patel,M,28,Sales,manager,16,126128,GOOD,88.49,Pune,2024-06-14,remote,5,24
+1649,aarav Jain,female,25,Sales,Intern,11,88745,average,83.32,Mumbai,2020-05-13,OFFICE,2,22
+1650,Rohan yadav,male,29,HR,manager,11,26211,excellent,75.64,Bangalore,2018-07-05,remote,27,38
+1651,Sneha singh,Male,21,Marketing,Intern,0,25229,GOOD,89.59,Pune,2018-09-18,Hybrid,14,27
+1652,Arjun mehta,male,56,it,EXecutive,12,143972,GOOD,74.45,Jaipur,2022-04-01,remote,6,49
+1653,aditya Verma,female,55,Sales,manager,13,73542,excellent,86.63,HyderaBad,2021-07-20,OFFICE,29,31
+1654,Aisha Sharma,Male,22,it,manager,1,39345,average,85.81,DELHI,2024-01-17,OFFICE,5,21
+1655,Sneha yadav,M,43,HR,senior Analyst,11,126489,GOOD,92.03,Pune,2020-02-01,OFFICE,3,25
+1656,Aisha Verma,female,29,HR,Analyst,15,56819,average,71.65,lucknow,2018-08-12,remote,18,44
+1657,Sneha Jain,M,54,Marketing,Intern,3,72779,GOOD,96.64,Mumbai,2021-07-03,Hybrid,4,35
+1658,aarav Kumar,Female,34,Marketing,Intern,7,107421,excellent,91.09,Mumbai,2018-06-29,OFFICE,2,7
+1659,Sneha singh,F,24,HR,senior Analyst,1,117244,average,76.48,Pune,2023-08-30,Hybrid,25,21
+1660,Riya yadav,female,50,Sales,senior Analyst,9,90584,GOOD,75.5,Jaipur,2022-07-06,OFFICE,24,30
+1661,Neha Jain,Female,51,it,Analyst,8,44950,GOOD,82.95,DELHI,2019-09-24,Hybrid,8,27
+1662,Rahul Kumar,female,58,finance,Analyst,14,40173,excellent,94.53,chennai,2022-03-17,Hybrid,5,10
+1663,Kabir Gupta,female,31,Marketing,manager,12,142743,average,95.29,lucknow,2023-10-07,Hybrid,12,32
+1664,aditya singh,Female,55,finance,EXecutive,16,83032,average,85.61,Pune,2023-05-18,OFFICE,26,12
+1665,aarav Jain,Male,28,Sales,Analyst,15,140074,GOOD,95.82,Pune,2019-09-07,remote,21,49
+1666,Vivaan singh,male,23,Marketing,senior Analyst,1,124273,Poor,70.16,HyderaBad,2019-07-16,remote,27,12
+1667,Riya Jain,M,34,finance,Analyst,19,53036,average,71.06,Mumbai,2024-08-18,remote,29,23
+1668,simran Patel,female,33,Sales,Intern,19,148885,average,97.35,lucknow,2019-09-14,Hybrid,19,42
+1669,Ananya Gupta,M,52,it,EXecutive,13,137857,average,93.26,DELHI,2023-11-06,OFFICE,3,33
+1670,Rahul Gupta,F,54,Sales,manager,2,96356,GOOD,83.52,Mumbai,2020-10-10,Hybrid,1,27
+1671,simran yadav,Female,39,Marketing,Intern,11,39292,average,92.61,Pune,2023-08-24,OFFICE,25,36
+1672,Vivaan yadav,M,58,HR,Intern,7,28052,excellent,98.67,Mumbai,2023-12-21,Hybrid,3,14
+1673,Arjun yadav,Female,36,it,EXecutive,1,69377,excellent,93.16,Mumbai,2023-05-15,OFFICE,7,31
+1674,aarav yadav,M,22,finance,manager,3,114317,Poor,95.27,Bangalore,2020-11-23,OFFICE,12,5
+1675,priya singh,male,37,Marketing,senior Analyst,13,92838,average,92.82,Mumbai,2019-08-15,OFFICE,9,43
+1676,Rohan singh,male,54,HR,manager,15,92819,GOOD,75.05,Jaipur,2019-08-06,Hybrid,17,33
+1677,Ananya Verma,male,36,Sales,Analyst,18,138689,GOOD,95.01,Mumbai,2022-06-02,remote,8,49
+1678,Vivaan Sharma,male,58,HR,Intern,1,133103,average,75.85,chennai,2021-01-06,Hybrid,29,7
+1679,Kabir Gupta,male,22,Marketing,Analyst,11,40620,excellent,96.78,Jaipur,2018-10-16,Hybrid,0,41
+1680,Ananya mehta,male,22,Marketing,senior Analyst,13,55461,excellent,83.76,lucknow,2022-04-18,OFFICE,12,35
+1681,Kabir Verma,Female,46,HR,Analyst,5,45750,excellent,90.31,Mumbai,2021-12-14,OFFICE,17,15
+1682,aditya yadav,female,33,Sales,manager,12,123426,GOOD,84.92,DELHI,2018-01-07,remote,14,26
+1683,Sneha Patel,M,51,HR,Analyst,3,113719,average,72.82,Jaipur,2021-03-29,remote,1,22
+1684,priya Gupta,male,54,Marketing,senior Analyst,17,34472,excellent,78.72,Jaipur,2018-08-28,OFFICE,10,39
+1685,Rahul Kumar,Female,59,Marketing,senior Analyst,11,94263,average,99.51,Pune,2023-06-10,remote,28,10
+1686,Vivaan Gupta,Female,23,finance,senior Analyst,19,137036,GOOD,98.82,lucknow,2021-12-17,remote,30,7
+1687,Aisha singh,Female,28,finance,manager,18,82602,average,79.61,Mumbai,2022-10-16,OFFICE,13,9
+1688,Ananya mehta,female,43,it,senior Analyst,7,50523,Poor,99.89,HyderaBad,2023-10-19,Hybrid,21,13
+1689,Rahul Jain,M,34,Marketing,Intern,6,55766,average,95.37,DELHI,2023-03-19,remote,14,32
+1690,aarav mehta,female,47,finance,senior Analyst,15,128262,average,88.33,Pune,2024-03-13,OFFICE,13,23
+1691,simran Jain,Male,49,HR,Analyst,18,91060,Poor,71.2,lucknow,2020-12-13,remote,15,32
+1692,Neha yadav,Female,59,Sales,Analyst,5,34079,GOOD,97.04,chennai,2024-07-05,remote,22,31
+1693,aarav Verma,Male,59,HR,Analyst,19,33399,average,86.72,Jaipur,2020-04-27,OFFICE,28,17
+1694,aditya Sharma,F,21,Sales,manager,10,85726,average,96.05,DELHI,2021-08-04,remote,14,42
+1695,simran Kumar,male,37,finance,Analyst,4,117906,GOOD,95.03,chennai,2023-09-24,remote,30,47
+1696,Riya Verma,male,50,it,manager,15,41532,GOOD,94.99,Mumbai,2024-02-24,remote,18,25
+1697,Rohan Kumar,female,33,HR,manager,6,147689,Poor,90.95,HyderaBad,2021-05-24,Hybrid,26,31
+1698,Sneha Kumar,M,41,HR,senior Analyst,4,107357,average,78.74,Bangalore,2022-02-13,Hybrid,8,50
+1699,Rahul Maurya,Male,39,HR,Intern,10,68162,GOOD,80.08,Bangalore,2021-08-25,remote,4,10
+1700,Neha Patel,M,39,Sales,senior Analyst,14,28749,GOOD,79.25,lucknow,2024-07-07,OFFICE,4,42
+1701,Arjun mehta,female,45,finance,senior Analyst,2,36353,average,70.6,HyderaBad,2019-11-27,remote,10,15
+1702,Rohan Verma,male,42,HR,manager,4,137313,GOOD,87.48,DELHI,2018-01-27,remote,27,45
+1703,Sneha Gupta,M,51,HR,manager,4,53477,average,90.97,Pune,2024-06-23,Hybrid,19,21
+1704,Neha Maurya,M,37,it,Analyst,8,49570,average,95.62,DELHI,2024-08-09,Hybrid,24,43
+1705,Vivaan Gupta,male,43,it,Analyst,14,111373,average,74.2,HyderaBad,2020-08-17,Hybrid,23,11
+1706,Arjun Patel,Male,52,finance,senior Analyst,2,36437,GOOD,86.33,chennai,2022-03-07,remote,27,34
+1707,Karan Maurya,male,30,finance,EXecutive,5,63104,average,70.24,Jaipur,2023-02-12,remote,3,25
+1708,Vivaan Sharma,M,30,Marketing,EXecutive,16,88370,average,72.85,Bangalore,2019-01-08,OFFICE,19,5
+1709,priya Kumar,Male,56,it,Analyst,7,29551,average,71.63,lucknow,2023-05-04,remote,17,29
+1710,Rahul mehta,Male,28,Marketing,EXecutive,10,93359,GOOD,91.76,Mumbai,2018-09-02,remote,24,36
+1711,Aisha yadav,male,40,Sales,Analyst,5,79880,GOOD,72.43,DELHI,2023-01-15,Hybrid,2,12
+1712,priya mehta,M,52,Marketing,manager,7,37916,Poor,91.49,Bangalore,2022-08-04,Hybrid,3,9
+1713,Rahul Gupta,female,34,HR,senior Analyst,9,105703,excellent,77.49,Pune,2024-11-30,Hybrid,13,34
+1714,Neha Kumar,M,48,Marketing,Intern,2,66445,GOOD,96.33,lucknow,2018-05-05,Hybrid,6,12
+1715,Kabir Maurya,Female,44,finance,senior Analyst,13,72636,GOOD,94.39,Mumbai,2019-06-21,Hybrid,25,23
+1716,Neha Jain,F,35,Sales,Analyst,13,98927,average,98.73,DELHI,2023-04-04,OFFICE,7,48
+1717,Vivaan Kumar,female,42,HR,Analyst,9,103194,excellent,96.51,Pune,2022-06-24,OFFICE,23,34
+1718,priya yadav,Male,50,Marketing,senior Analyst,11,54685,GOOD,98.0,Mumbai,2021-11-26,OFFICE,15,19
+1719,Arjun Sharma,female,24,Sales,Analyst,5,76134,excellent,95.76,Jaipur,2022-03-21,Hybrid,19,40
+1720,Arjun Gupta,Male,33,Sales,EXecutive,11,113916,average,90.8,Bangalore,2019-06-15,Hybrid,14,48
+1721,Aisha mehta,Male,43,HR,EXecutive,13,132967,GOOD,75.11,Jaipur,2018-09-11,Hybrid,6,31
+1722,simran Verma,female,28,Marketing,Analyst,1,119455,GOOD,78.15,Bangalore,2023-12-09,OFFICE,25,17
+1723,Aisha Maurya,Male,38,Sales,Analyst,8,92847,GOOD,76.38,Pune,2019-10-23,Hybrid,16,18
+1724,Neha Sharma,Male,32,Sales,EXecutive,9,64993,average,88.11,chennai,2022-12-07,OFFICE,21,41
+1725,aditya Gupta,Female,51,it,Analyst,16,69333,GOOD,85.11,Jaipur,2020-11-26,Hybrid,21,34
+1726,Ananya singh,M,34,Sales,Analyst,16,133574,excellent,96.01,Bangalore,2021-09-27,remote,21,43
+1727,Arjun Gupta,M,54,it,senior Analyst,2,83865,GOOD,98.58,lucknow,2020-11-02,OFFICE,11,17
+1728,Neha Jain,F,38,Marketing,Intern,18,104096,Poor,82.15,Pune,2021-04-21,remote,17,20
+1729,Neha Patel,F,54,Marketing,EXecutive,0,74756,average,85.19,Bangalore,2023-11-06,OFFICE,23,48
+1730,aarav yadav,Female,31,Marketing,senior Analyst,11,147863,Poor,99.15,DELHI,2023-09-25,Hybrid,13,11
+1731,Riya singh,F,32,finance,Intern,6,86192,average,78.29,Bangalore,2021-02-16,Hybrid,14,31
+1732,Rahul Verma,female,35,Marketing,Analyst,3,85686,excellent,93.77,Jaipur,2022-04-04,remote,14,49
+1733,Sneha Jain,male,51,Sales,Analyst,9,73733,average,76.76,lucknow,2022-10-22,Hybrid,4,39
+1734,Rahul Maurya,male,49,HR,senior Analyst,12,129089,GOOD,90.44,Mumbai,2023-05-20,OFFICE,15,19
+1735,priya Jain,male,46,it,Analyst,1,50993,GOOD,77.61,chennai,2020-01-15,Hybrid,4,32
+1736,aarav mehta,Female,38,finance,manager,9,55492,GOOD,96.51,Mumbai,2022-06-18,Hybrid,1,39
+1737,Ananya Patel,Female,52,Marketing,senior Analyst,3,45981,GOOD,86.84,Bangalore,2020-08-24,OFFICE,19,11
+1738,aditya singh,Male,42,Marketing,Intern,17,49143,Poor,75.58,Mumbai,2020-02-02,remote,27,50
+1739,Ananya Sharma,male,58,HR,senior Analyst,4,102603,GOOD,76.73,Bangalore,2020-03-04,remote,24,50
+1740,simran Verma,female,37,HR,EXecutive,18,114452,average,84.82,lucknow,2020-01-14,Hybrid,8,24
+1741,Karan mehta,F,43,finance,senior Analyst,1,85277,excellent,98.85,Mumbai,2020-12-05,OFFICE,21,36
+1742,Vivaan Gupta,female,44,it,Analyst,11,132044,excellent,93.09,Jaipur,2022-03-12,remote,26,42
+1743,Karan Kumar,F,28,Marketing,Analyst,16,136957,average,84.65,Jaipur,2019-07-12,remote,30,44
+1744,Riya Sharma,male,26,finance,manager,9,74990,average,80.13,DELHI,2023-06-18,Hybrid,8,36
+1745,aarav Kumar,male,25,Sales,manager,1,87888,average,86.48,Bangalore,2019-06-10,OFFICE,3,30
+1746,Rohan Jain,male,49,Sales,manager,5,94351,GOOD,92.45,Mumbai,2020-04-19,remote,14,43
+1747,Arjun Kumar,Female,48,finance,Intern,7,122372,GOOD,93.52,Jaipur,2018-01-03,Hybrid,10,24
+1748,Sneha singh,F,31,Marketing,manager,18,74999,average,79.74,HyderaBad,2020-11-17,Hybrid,0,22
+1749,aditya Verma,Female,21,finance,Intern,10,128013,average,91.63,lucknow,2021-11-05,Hybrid,17,19
+1750,priya singh,Female,39,Marketing,manager,11,127811,GOOD,89.73,chennai,2018-06-06,Hybrid,28,26
+1751,simran Maurya,M,29,HR,Intern,8,129879,Poor,98.77,lucknow,2023-04-22,remote,0,26
+1752,Vivaan singh,female,47,finance,senior Analyst,1,95309,average,97.93,HyderaBad,2023-05-09,OFFICE,7,25
+1753,priya Sharma,female,54,Marketing,senior Analyst,7,37446,Poor,93.68,HyderaBad,2019-05-26,Hybrid,24,6
+1754,Rohan Sharma,Male,24,finance,Analyst,10,55733,average,91.7,DELHI,2019-11-18,Hybrid,15,44
+1755,Arjun Kumar,Female,56,finance,Intern,3,144156,average,78.22,lucknow,2021-02-11,remote,25,47
+1756,Sneha Sharma,F,38,Marketing,EXecutive,9,101000,excellent,95.38,lucknow,2021-11-13,Hybrid,27,22
+1757,Kabir Jain,M,35,Marketing,Analyst,19,73632,GOOD,82.83,Mumbai,2022-02-19,Hybrid,21,27
+1758,aditya Jain,M,33,it,senior Analyst,15,46576,average,78.17,Bangalore,2019-07-25,OFFICE,17,17
+1759,Kabir Gupta,female,39,finance,Intern,7,28320,GOOD,81.52,Pune,2019-12-16,Hybrid,21,45
+1760,aarav yadav,Female,26,Sales,manager,3,35750,excellent,95.08,chennai,2021-08-31,remote,8,13
+1761,priya Maurya,Male,32,finance,EXecutive,9,128002,GOOD,74.46,lucknow,2024-04-05,OFFICE,11,11
+1762,Rahul Jain,Female,57,finance,senior Analyst,11,78463,GOOD,83.68,chennai,2024-06-08,remote,18,45
+1763,Karan Verma,male,37,Marketing,Analyst,13,51572,Poor,84.77,chennai,2020-09-17,OFFICE,24,5
+1764,Karan mehta,Female,43,finance,Intern,15,143361,average,71.1,chennai,2018-11-30,OFFICE,17,6
+1765,Karan mehta,male,46,finance,EXecutive,17,42948,GOOD,75.87,lucknow,2023-12-01,Hybrid,26,8
+1766,Kabir mehta,male,49,Sales,Intern,11,141528,excellent,94.8,Pune,2022-07-03,Hybrid,4,18
+1767,Sneha Sharma,Male,53,Marketing,manager,17,63826,average,94.92,lucknow,2018-12-28,Hybrid,26,36
+1768,Sneha mehta,F,47,finance,Analyst,6,114051,average,78.77,Mumbai,2023-02-24,remote,1,40
+1769,priya Maurya,female,45,HR,Intern,19,52867,Poor,96.25,Mumbai,2023-11-15,Hybrid,6,6
+1770,Arjun yadav,Female,30,it,senior Analyst,6,85231,GOOD,93.15,Pune,2023-06-05,Hybrid,26,44
+1771,simran Gupta,male,43,Sales,Analyst,8,91262,GOOD,82.54,Jaipur,2023-08-26,OFFICE,9,18
+1772,Sneha Kumar,Female,41,finance,senior Analyst,0,116356,GOOD,92.45,lucknow,2023-06-01,Hybrid,14,24
+1773,aditya Jain,F,41,HR,Intern,5,97233,Poor,98.84,Jaipur,2019-01-11,Hybrid,24,29
+1774,Vivaan yadav,female,33,finance,Analyst,5,69678,average,83.77,chennai,2020-01-12,Hybrid,6,46
+1775,Rohan Verma,F,57,finance,senior Analyst,11,132561,average,77.15,lucknow,2019-01-25,Hybrid,27,12
+1776,Kabir Patel,female,53,Marketing,manager,11,37963,GOOD,98.25,Bangalore,2021-05-25,OFFICE,4,32
+1777,Sneha singh,M,44,Marketing,manager,9,89360,average,88.11,lucknow,2020-04-03,Hybrid,14,50
+1778,Vivaan mehta,female,31,Marketing,Intern,5,74434,average,73.16,Mumbai,2024-06-25,OFFICE,19,25
+1779,Sneha Sharma,Male,37,HR,Analyst,16,91617,GOOD,87.18,DELHI,2024-02-22,remote,27,27
+1780,simran Jain,F,24,finance,EXecutive,18,45269,GOOD,85.02,HyderaBad,2019-02-22,Hybrid,19,36
+1781,aditya Verma,male,45,it,Analyst,17,142569,GOOD,95.67,DELHI,2019-08-30,Hybrid,14,12
+1782,aditya Gupta,M,50,Sales,manager,5,101312,GOOD,85.92,DELHI,2019-07-22,Hybrid,9,35
+1783,Neha Jain,Male,29,Marketing,senior Analyst,18,122352,excellent,77.66,DELHI,2019-06-28,OFFICE,23,41
+1784,Arjun yadav,Female,41,Marketing,EXecutive,9,104732,GOOD,90.27,HyderaBad,2024-03-28,Hybrid,25,20
+1785,Sneha yadav,F,40,finance,Intern,7,142658,GOOD,86.28,Jaipur,2020-06-02,Hybrid,28,44
+1786,Kabir Jain,male,39,finance,EXecutive,5,132648,excellent,76.99,HyderaBad,2019-12-04,remote,25,46
+1787,aarav Patel,female,39,HR,Intern,6,106494,GOOD,87.21,Jaipur,2021-05-08,OFFICE,13,31
+1788,Rohan Maurya,male,32,HR,EXecutive,0,113905,average,94.65,HyderaBad,2022-06-11,OFFICE,25,44
+1789,Karan Verma,Female,57,Marketing,Intern,17,102225,GOOD,70.86,HyderaBad,2023-08-31,remote,25,45
+1790,aarav mehta,M,37,finance,Intern,19,107867,average,88.93,lucknow,2022-11-22,OFFICE,9,22
+1791,Aisha Verma,M,57,it,EXecutive,11,62528,GOOD,80.49,Jaipur,2022-06-08,Hybrid,16,39
+1792,Sneha singh,F,59,Sales,EXecutive,15,149597,average,78.78,lucknow,2021-12-28,Hybrid,20,19
+1793,Arjun Verma,M,48,finance,Intern,9,103972,excellent,81.78,Bangalore,2024-08-15,remote,13,31
+1794,simran yadav,F,55,finance,manager,9,90602,average,80.26,lucknow,2022-05-03,OFFICE,1,21
+1795,Rohan Verma,F,38,HR,EXecutive,13,121261,excellent,94.97,DELHI,2023-03-30,OFFICE,15,44
+1796,aditya yadav,F,34,Sales,Analyst,19,115748,average,78.24,Pune,2018-03-19,OFFICE,12,6
+1797,simran Patel,female,55,Marketing,senior Analyst,9,148193,GOOD,91.99,Pune,2021-08-01,remote,26,35
+1798,Rohan Sharma,Male,27,finance,Intern,9,58332,average,72.82,Mumbai,2019-10-10,Hybrid,8,41
+1799,Rohan Gupta,F,33,Marketing,Intern,10,149481,GOOD,98.54,Mumbai,2023-12-28,remote,6,45
+1800,Aisha Kumar,F,38,finance,senior Analyst,1,115937,GOOD,88.67,chennai,2019-07-07,Hybrid,15,45
+1801,Riya Kumar,Male,57,Marketing,manager,19,103929,excellent,91.2,lucknow,2020-09-24,remote,9,38
+1802,Arjun Kumar,male,33,Sales,senior Analyst,7,94206,average,78.94,HyderaBad,2018-10-09,Hybrid,23,38
+1803,Kabir yadav,F,56,HR,EXecutive,6,116137,Poor,82.36,HyderaBad,2021-07-05,OFFICE,21,7
+1804,Ananya Gupta,female,51,Sales,senior Analyst,7,27251,average,76.71,Pune,2023-01-21,OFFICE,8,21
+1805,aarav Sharma,M,22,it,Intern,0,70717,excellent,97.98,DELHI,2021-10-15,OFFICE,21,18
+1806,aditya Jain,M,36,HR,senior Analyst,1,124108,GOOD,84.64,Jaipur,2024-10-23,remote,22,18
+1807,simran Verma,Female,29,Sales,Analyst,17,52027,Poor,88.91,DELHI,2024-05-06,remote,6,50
+1808,Ananya Verma,Female,29,it,EXecutive,14,122382,GOOD,92.03,chennai,2021-03-03,remote,15,42
+1809,simran Gupta,M,58,finance,senior Analyst,0,111551,average,81.13,DELHI,2018-04-14,OFFICE,8,39
+1810,Karan Sharma,M,31,finance,Intern,4,34583,Poor,91.6,lucknow,2020-02-05,Hybrid,26,5
+1811,priya Kumar,female,42,Marketing,EXecutive,1,75387,average,90.28,lucknow,2023-11-13,OFFICE,23,33
+1812,Kabir Sharma,Male,53,HR,Intern,19,48104,GOOD,91.17,Bangalore,2022-05-16,OFFICE,28,8
+1813,Karan Jain,Female,56,finance,manager,2,37224,GOOD,84.68,chennai,2019-04-25,Hybrid,16,37
+1814,Ananya mehta,Male,43,HR,Analyst,18,85624,GOOD,81.49,DELHI,2023-08-23,Hybrid,19,21
+1815,priya Gupta,female,54,finance,manager,17,81058,average,76.66,HyderaBad,2023-05-18,Hybrid,6,32
+1816,Neha Maurya,M,29,Marketing,Analyst,17,129320,GOOD,94.74,HyderaBad,2023-11-13,Hybrid,10,30
+1817,Sneha Jain,F,44,Sales,senior Analyst,13,121372,GOOD,88.25,chennai,2024-05-29,OFFICE,7,12
+1818,Kabir Jain,Male,28,Marketing,EXecutive,7,54299,GOOD,83.33,DELHI,2023-09-04,remote,6,38
+1819,Neha Verma,M,27,it,senior Analyst,11,103572,excellent,98.32,lucknow,2021-07-19,OFFICE,27,22
+1820,Karan yadav,M,56,finance,Analyst,9,110469,average,71.44,lucknow,2022-03-09,Hybrid,18,35
+1821,Ananya Patel,male,38,it,Analyst,19,102928,average,95.51,Bangalore,2021-04-04,remote,30,31
+1822,Neha Jain,Male,23,it,Analyst,16,98474,GOOD,99.93,Bangalore,2020-07-27,remote,19,20
+1823,Ananya Maurya,F,48,HR,Intern,10,29141,GOOD,96.61,Mumbai,2020-02-01,OFFICE,11,14
+1824,priya singh,Male,26,finance,EXecutive,1,48350,Poor,94.31,chennai,2019-10-16,OFFICE,6,44
+1825,Rohan mehta,M,41,it,senior Analyst,3,100082,excellent,81.23,Pune,2022-07-28,OFFICE,7,16
+1826,Neha Verma,F,48,Sales,senior Analyst,0,95871,average,76.94,DELHI,2024-12-13,remote,6,26
+1827,Karan mehta,female,21,it,manager,14,30077,Poor,92.05,chennai,2023-04-16,remote,5,20
+1828,Karan Sharma,male,56,Sales,Analyst,12,71015,GOOD,79.14,HyderaBad,2021-01-31,remote,24,16
+1829,Arjun singh,M,41,HR,Analyst,7,96147,GOOD,75.28,DELHI,2023-04-10,Hybrid,8,15
+1830,Riya Maurya,Female,55,it,Analyst,3,84180,Poor,93.6,Bangalore,2019-07-29,Hybrid,26,24
+1831,priya Gupta,Female,33,Marketing,senior Analyst,9,65857,GOOD,79.38,Bangalore,2024-05-30,OFFICE,12,5
+1832,Rahul yadav,male,30,HR,manager,18,126196,GOOD,97.43,Mumbai,2021-08-22,remote,6,31
+1833,aarav Kumar,female,30,Sales,Intern,17,84840,GOOD,95.22,Pune,2021-07-01,OFFICE,7,7
+1834,aditya Patel,M,33,HR,EXecutive,4,84902,GOOD,95.43,Mumbai,2021-04-18,remote,21,16
+1835,Arjun Sharma,Male,57,it,Intern,18,30577,average,93.15,HyderaBad,2018-02-09,OFFICE,16,34
+1836,Rohan mehta,male,58,finance,senior Analyst,15,45002,average,96.43,Pune,2019-06-04,Hybrid,16,13
+1837,aditya Verma,female,44,finance,Analyst,0,75711,average,94.17,Jaipur,2022-06-28,remote,15,41
+1838,Vivaan Sharma,Male,22,Sales,EXecutive,11,64451,excellent,88.08,DELHI,2024-04-02,Hybrid,21,5
+1839,Riya singh,Female,42,Sales,senior Analyst,1,124811,excellent,78.87,Mumbai,2019-04-08,remote,1,46
+1840,aditya Maurya,Female,37,finance,senior Analyst,7,74103,average,96.65,Bangalore,2021-06-05,OFFICE,29,8
+1841,Rohan Jain,Male,56,Sales,senior Analyst,17,53647,excellent,95.22,Mumbai,2023-01-23,remote,7,19
+1842,Rohan Kumar,male,34,HR,EXecutive,15,59831,average,84.19,Jaipur,2019-04-28,Hybrid,16,31
+1843,Karan Patel,Female,30,Marketing,EXecutive,4,143330,GOOD,71.17,Mumbai,2024-10-13,remote,12,12
+1844,simran Gupta,M,55,Marketing,manager,12,125304,average,89.16,DELHI,2018-12-09,OFFICE,17,27
+1845,Vivaan Kumar,F,45,HR,manager,18,121498,GOOD,71.52,Jaipur,2021-04-11,remote,23,19
+1846,Riya singh,Male,23,Marketing,Intern,2,138870,GOOD,97.79,chennai,2022-01-02,Hybrid,27,31
+1847,Neha Kumar,Male,58,it,EXecutive,7,120119,GOOD,98.85,chennai,2021-04-17,OFFICE,21,35
+1848,aditya Kumar,Female,37,HR,EXecutive,11,91830,GOOD,75.68,chennai,2022-06-10,Hybrid,27,43
+1849,Vivaan mehta,male,32,Sales,EXecutive,1,105632,GOOD,90.29,Bangalore,2023-12-21,remote,9,12
+1850,Karan Jain,M,44,HR,manager,10,61833,average,72.77,Bangalore,2024-07-26,Hybrid,1,34
+1851,Karan Gupta,male,49,finance,senior Analyst,11,137394,average,91.89,chennai,2024-12-28,remote,1,46
+1852,Neha Verma,female,45,Sales,Analyst,17,117864,average,80.42,chennai,2023-11-02,OFFICE,26,22
+1853,Riya Maurya,female,56,finance,manager,12,49398,Poor,90.43,chennai,2020-09-19,Hybrid,13,8
+1854,Riya Gupta,F,46,Sales,EXecutive,4,149633,GOOD,81.19,lucknow,2024-07-18,Hybrid,15,47
+1855,Arjun Verma,Female,58,Marketing,manager,11,86554,excellent,74.37,chennai,2021-04-04,remote,6,26
+1856,Rahul Gupta,Female,21,HR,Intern,1,75755,GOOD,82.18,Jaipur,2024-05-29,Hybrid,20,7
+1857,Aisha Gupta,Female,40,it,EXecutive,4,42706,average,73.38,lucknow,2022-05-23,Hybrid,20,19
+1858,Rohan Sharma,F,48,Sales,Intern,6,47340,GOOD,87.31,lucknow,2021-04-08,OFFICE,23,39
+1859,Vivaan Jain,female,36,Sales,EXecutive,11,89994,average,71.23,DELHI,2019-08-21,remote,11,42
+1860,Rohan singh,male,37,finance,manager,15,88884,GOOD,85.82,Mumbai,2019-10-07,remote,27,37
+1861,Arjun singh,F,48,Marketing,senior Analyst,7,109361,Poor,96.59,Bangalore,2019-03-24,OFFICE,22,18
+1862,Riya Jain,F,32,finance,Analyst,8,42482,Poor,95.14,Bangalore,2024-12-24,OFFICE,27,5
+1863,Vivaan Jain,male,47,finance,Intern,14,79225,excellent,96.48,Mumbai,2020-02-03,remote,13,30
+1864,Neha Sharma,Female,50,Marketing,manager,4,83849,GOOD,97.66,Bangalore,2020-01-05,OFFICE,24,12
+1865,Rahul Jain,M,54,it,senior Analyst,12,99854,average,73.14,Mumbai,2022-07-01,OFFICE,3,20
+1866,aditya Jain,male,57,finance,manager,4,66256,GOOD,73.86,Jaipur,2024-04-16,OFFICE,25,42
+1867,Aisha Sharma,female,26,finance,Intern,10,134545,GOOD,86.71,DELHI,2019-08-24,remote,3,14
+1868,Neha Kumar,Male,27,Sales,Analyst,9,133721,average,96.82,chennai,2023-12-13,OFFICE,17,46
+1869,Rohan Kumar,Male,52,Marketing,manager,19,106110,GOOD,99.23,DELHI,2023-12-01,Hybrid,2,41
+1870,priya mehta,F,52,HR,EXecutive,12,138606,average,71.39,HyderaBad,2020-09-07,Hybrid,0,30
+1871,Ananya Maurya,Male,45,it,senior Analyst,8,39650,average,80.67,DELHI,2022-11-18,remote,16,32
+1872,Aisha yadav,M,53,it,manager,13,71118,excellent,76.39,Mumbai,2024-01-07,OFFICE,6,16
+1873,priya mehta,Female,27,Marketing,senior Analyst,17,53930,GOOD,92.68,HyderaBad,2024-07-18,Hybrid,29,24
+1874,Karan singh,female,32,Sales,EXecutive,14,110707,GOOD,89.21,Mumbai,2019-08-03,remote,15,18
+1875,Kabir yadav,M,36,Sales,Analyst,9,125400,average,73.6,chennai,2020-02-22,Hybrid,29,50
+1876,Arjun mehta,female,36,Marketing,Analyst,6,36801,excellent,84.51,Pune,2024-06-26,OFFICE,4,39
+1877,Neha Gupta,female,56,Sales,EXecutive,7,76360,average,90.56,HyderaBad,2019-06-16,remote,18,33
+1878,simran yadav,Female,33,it,senior Analyst,2,112908,GOOD,93.37,chennai,2022-02-21,Hybrid,6,16
+1879,Kabir Verma,F,27,it,manager,14,41559,excellent,70.6,chennai,2024-12-14,remote,13,22
+1880,Ananya Verma,Male,56,HR,EXecutive,15,57334,GOOD,96.71,Bangalore,2019-09-04,Hybrid,1,48
+1881,simran yadav,Female,29,Marketing,Intern,3,130473,GOOD,87.08,Bangalore,2024-04-18,Hybrid,2,6
+1882,Vivaan Sharma,M,52,finance,senior Analyst,5,38288,GOOD,94.36,Pune,2023-06-29,OFFICE,16,6
+1883,Karan Sharma,F,31,finance,Analyst,0,47398,GOOD,94.24,Pune,2021-01-05,OFFICE,15,21
+1884,Riya Verma,M,28,HR,EXecutive,3,101230,GOOD,75.7,DELHI,2022-07-29,Hybrid,7,14
+1885,Aisha Jain,F,53,HR,Analyst,10,37191,excellent,73.31,chennai,2021-11-16,remote,17,22
+1886,Rohan singh,M,43,Sales,senior Analyst,11,43051,excellent,91.64,Pune,2021-12-06,remote,14,26
+1887,Rahul singh,Female,45,HR,Analyst,4,86715,average,74.69,Mumbai,2024-01-30,OFFICE,6,23
+1888,simran yadav,F,28,HR,EXecutive,15,35737,GOOD,95.5,chennai,2020-05-24,Hybrid,26,5
+1889,Arjun Kumar,F,42,finance,senior Analyst,12,90140,GOOD,91.79,lucknow,2024-02-27,OFFICE,8,28
+1890,Vivaan Gupta,female,24,Sales,Intern,12,50251,average,95.25,Mumbai,2018-08-05,Hybrid,5,40
+1891,Rohan Maurya,female,23,HR,EXecutive,16,75975,GOOD,78.97,HyderaBad,2019-01-11,Hybrid,17,29
+1892,Ananya Patel,male,49,HR,manager,6,30147,average,79.5,Pune,2022-05-29,OFFICE,17,40
+1893,Ananya Verma,M,49,Sales,EXecutive,7,75508,GOOD,90.14,Bangalore,2018-01-11,remote,24,35
+1894,Ananya Sharma,female,54,Marketing,senior Analyst,12,77224,excellent,70.94,Mumbai,2022-06-02,OFFICE,25,35
+1895,Aisha Maurya,male,54,Sales,EXecutive,15,44643,Poor,91.79,Bangalore,2024-10-18,Hybrid,23,6
+1896,aarav mehta,female,48,finance,Intern,3,63967,GOOD,95.07,Mumbai,2020-03-28,OFFICE,13,23
+1897,Rahul Sharma,M,33,Marketing,Intern,7,123850,average,82.45,Bangalore,2021-07-20,remote,13,16
+1898,Rahul mehta,F,35,it,manager,15,128535,GOOD,92.95,Jaipur,2019-11-22,remote,13,14
+1899,Riya Verma,Male,43,Sales,Analyst,9,65733,average,75.24,Mumbai,2022-05-19,Hybrid,24,35
+1900,Vivaan Patel,M,46,finance,senior Analyst,11,109003,average,79.67,HyderaBad,2022-03-13,OFFICE,3,49
+1901,Neha singh,Female,24,Marketing,senior Analyst,11,59808,excellent,99.23,Bangalore,2021-03-01,remote,3,26
+1902,Ananya yadav,female,46,Sales,Analyst,4,144222,average,99.59,lucknow,2023-05-02,OFFICE,14,27
+1903,Rohan Sharma,female,29,HR,Intern,15,92288,GOOD,85.38,HyderaBad,2020-02-23,remote,14,27
+1904,Rahul singh,F,25,Sales,Intern,0,83959,average,98.03,DELHI,2024-06-24,Hybrid,17,19
+1905,Neha mehta,Female,52,it,EXecutive,8,26849,GOOD,85.68,Mumbai,2023-05-27,Hybrid,13,30
+1906,Sneha mehta,F,40,Sales,manager,11,93178,average,78.75,lucknow,2023-02-20,OFFICE,25,7
+1907,Vivaan Verma,Female,31,Marketing,manager,4,92136,excellent,78.01,DELHI,2020-02-24,Hybrid,0,27
+1908,Rohan Patel,Male,35,Marketing,manager,19,85740,GOOD,97.89,Mumbai,2019-02-01,remote,9,24
+1909,aarav singh,female,52,Sales,EXecutive,2,137255,average,75.17,lucknow,2020-12-17,Hybrid,28,49
+1910,Rohan Kumar,female,48,Marketing,manager,4,111322,average,87.39,lucknow,2022-02-12,remote,19,44
+1911,Sneha yadav,Male,42,HR,Analyst,1,69565,excellent,86.67,HyderaBad,2023-07-27,remote,9,43
+1912,Rohan Patel,male,37,Sales,EXecutive,13,45183,GOOD,92.19,Jaipur,2022-06-03,Hybrid,9,12
+1913,Vivaan Patel,F,46,HR,Analyst,1,140306,GOOD,84.98,lucknow,2019-04-05,remote,26,22
+1914,Rahul singh,Male,27,HR,EXecutive,12,26132,GOOD,78.17,Jaipur,2023-10-10,remote,23,45
+1915,aarav Jain,F,46,finance,manager,6,63259,GOOD,75.08,Pune,2024-08-13,OFFICE,1,10
+1916,Aisha Gupta,M,45,Sales,Analyst,9,121612,average,88.62,HyderaBad,2019-06-30,OFFICE,28,31
+1917,Kabir Gupta,female,30,Marketing,Analyst,12,88668,GOOD,91.57,chennai,2024-12-18,OFFICE,27,40
+1918,Neha Patel,F,39,HR,Analyst,15,63563,average,87.09,Bangalore,2019-05-12,Hybrid,26,19
+1919,Rahul singh,Female,31,finance,EXecutive,13,117227,average,92.15,HyderaBad,2019-05-20,OFFICE,7,41
+1920,Karan Gupta,F,33,Sales,senior Analyst,10,133835,GOOD,74.25,DELHI,2020-12-28,remote,0,9
+1921,aditya Sharma,M,28,Sales,manager,9,35931,GOOD,96.47,Bangalore,2024-01-18,Hybrid,30,43
+1922,Arjun Maurya,female,24,it,Analyst,5,98169,GOOD,87.47,Bangalore,2022-06-26,Hybrid,0,13
+1923,Kabir Verma,Male,51,it,senior Analyst,3,75639,GOOD,73.81,chennai,2019-12-19,Hybrid,3,11
+1924,Rohan singh,M,48,HR,manager,0,147536,average,83.86,Jaipur,2022-05-12,Hybrid,6,45
+1925,aarav Kumar,female,31,it,manager,6,128313,GOOD,95.34,chennai,2021-11-09,remote,8,24
+1926,Riya Verma,F,21,HR,Analyst,8,83901,average,96.93,chennai,2018-09-26,remote,15,14
+1927,Kabir Jain,male,58,Marketing,Analyst,7,125417,GOOD,77.94,Bangalore,2023-05-01,OFFICE,4,30
+1928,Aisha Kumar,male,44,HR,EXecutive,4,26044,GOOD,91.34,lucknow,2022-01-17,Hybrid,1,8
+1929,aarav Gupta,Female,51,it,senior Analyst,18,71691,excellent,73.0,Jaipur,2022-03-22,OFFICE,27,42
+1930,Riya Verma,female,46,Marketing,senior Analyst,9,125735,excellent,71.01,Bangalore,2020-05-14,remote,22,28
+1931,Ananya yadav,male,25,it,Analyst,10,49363,GOOD,86.81,Jaipur,2024-07-25,Hybrid,10,18
+1932,aditya Gupta,Male,40,HR,manager,14,71694,GOOD,90.84,Pune,2018-04-20,remote,17,45
+1933,Riya mehta,female,31,finance,Analyst,5,26582,average,93.87,Jaipur,2024-09-20,OFFICE,24,5
+1934,aditya Patel,Male,53,Sales,manager,14,104910,average,80.21,Mumbai,2019-10-12,remote,24,21
+1935,simran Kumar,Male,58,it,manager,4,91844,GOOD,70.2,lucknow,2023-09-30,Hybrid,18,49
+1936,simran yadav,male,47,HR,Analyst,18,46301,GOOD,84.39,DELHI,2022-02-08,Hybrid,12,28
+1937,aarav Patel,female,54,Marketing,Intern,18,99329,GOOD,70.48,Mumbai,2021-01-15,OFFICE,23,31
+1938,Ananya Kumar,F,35,it,senior Analyst,9,26620,GOOD,72.76,Mumbai,2019-08-19,Hybrid,10,11
+1939,Rahul Kumar,M,52,it,manager,11,87224,GOOD,79.8,chennai,2020-09-05,remote,19,13
+1940,Aisha Maurya,male,41,Sales,manager,3,81655,GOOD,83.12,chennai,2020-01-01,remote,18,47
+1941,Rahul Gupta,male,25,HR,Intern,17,120419,GOOD,78.38,Mumbai,2018-02-26,remote,16,39
+1942,priya Verma,F,26,finance,EXecutive,15,62534,excellent,87.46,Bangalore,2024-02-22,remote,4,16
+1943,Riya Jain,female,58,Marketing,Intern,7,145050,excellent,71.66,Jaipur,2022-11-19,OFFICE,12,25
+1944,Neha Sharma,female,42,HR,Intern,3,128496,excellent,74.34,Jaipur,2022-08-29,remote,29,7
+1945,Riya Gupta,Male,38,Marketing,manager,11,64390,average,90.86,HyderaBad,2021-07-10,OFFICE,26,19
+1946,Vivaan Verma,F,34,it,senior Analyst,1,96629,GOOD,74.26,Bangalore,2018-04-22,remote,19,25
+1947,simran Maurya,F,30,Sales,Intern,3,80856,GOOD,89.19,lucknow,2019-12-12,OFFICE,0,14
+1948,Neha Kumar,female,33,Sales,EXecutive,4,74252,GOOD,71.64,Bangalore,2021-04-16,remote,9,37
+1949,aarav Maurya,Male,51,finance,Analyst,2,80809,average,82.22,Bangalore,2020-08-05,remote,7,50
+1950,Karan Jain,male,50,Sales,Intern,8,47259,average,75.32,Bangalore,2018-01-26,OFFICE,23,10
+1951,Neha Maurya,Female,23,it,Intern,17,45655,average,73.29,lucknow,2024-09-23,Hybrid,28,6
+1952,aditya Jain,M,50,finance,EXecutive,10,58005,excellent,87.01,HyderaBad,2020-01-28,Hybrid,7,33
+1953,Karan Sharma,male,26,HR,senior Analyst,2,56629,GOOD,97.85,lucknow,2022-12-06,Hybrid,18,44
+1954,Aisha Kumar,female,49,Sales,Intern,1,48610,average,71.64,Pune,2022-04-05,OFFICE,5,37
+1955,simran Maurya,M,28,finance,Intern,8,82184,excellent,82.65,HyderaBad,2023-01-16,Hybrid,11,8
+1956,Rahul Patel,Female,53,it,senior Analyst,13,46602,GOOD,91.23,Pune,2024-04-12,Hybrid,27,8
+1957,aarav mehta,Female,37,Marketing,EXecutive,3,110945,average,83.88,Pune,2021-01-09,OFFICE,6,33
+1958,Riya Verma,Male,31,Marketing,Intern,8,36110,GOOD,94.19,Pune,2019-10-24,Hybrid,15,41
+1959,Aisha Sharma,M,33,it,senior Analyst,12,31073,excellent,75.39,Jaipur,2020-06-27,Hybrid,8,24
+1960,Vivaan Sharma,Male,31,it,Intern,17,125846,excellent,98.79,Mumbai,2024-09-09,Hybrid,20,45
+1961,aarav Kumar,male,51,Marketing,Analyst,14,105818,GOOD,81.55,Mumbai,2019-06-06,OFFICE,24,27
+1962,Rohan Sharma,F,48,finance,manager,9,35195,excellent,80.25,Pune,2023-01-31,OFFICE,21,49
+1963,Rohan Patel,F,26,Marketing,Analyst,15,26537,average,96.24,Pune,2022-10-26,Hybrid,9,22
+1964,Arjun Maurya,F,36,it,Intern,11,42138,average,86.92,DELHI,2024-04-30,Hybrid,9,29
+1965,Sneha Verma,M,24,Sales,EXecutive,19,69328,excellent,85.49,chennai,2020-02-29,OFFICE,9,5
+1966,Rahul yadav,F,55,HR,manager,4,71202,average,91.81,Mumbai,2021-07-21,Hybrid,19,19
+1967,Arjun mehta,male,46,Sales,Analyst,1,65164,GOOD,87.4,chennai,2022-09-26,OFFICE,28,38
+1968,Vivaan Verma,Male,32,Sales,senior Analyst,9,114743,excellent,74.88,chennai,2018-06-21,Hybrid,15,24
+1969,Arjun yadav,M,31,it,EXecutive,0,79659,average,90.23,DELHI,2018-09-22,OFFICE,0,41
+1970,Aisha Sharma,Male,57,Marketing,Analyst,6,111155,average,74.0,chennai,2023-06-10,remote,16,31
+1971,Riya singh,M,45,finance,senior Analyst,16,74692,average,94.18,HyderaBad,2020-11-15,remote,29,26
+1972,Neha Maurya,Male,38,Sales,Intern,15,145198,average,99.69,DELHI,2022-02-01,OFFICE,25,9
+1973,Karan Maurya,Female,39,Marketing,senior Analyst,2,49845,average,81.32,chennai,2023-03-01,remote,20,38
+1974,Karan yadav,Male,43,finance,Analyst,13,114846,average,83.34,chennai,2019-04-21,Hybrid,28,43
+1975,Kabir Kumar,F,58,Sales,Analyst,9,128435,GOOD,71.39,Bangalore,2024-07-31,OFFICE,13,7
+1976,Vivaan Jain,Female,38,finance,Intern,6,55562,average,70.41,chennai,2020-11-15,OFFICE,18,21
+1977,Riya Verma,Male,46,Marketing,senior Analyst,16,53036,Poor,97.64,Jaipur,2018-02-03,Hybrid,20,28
+1978,Aisha Patel,M,26,HR,senior Analyst,5,85752,average,73.86,HyderaBad,2024-04-30,Hybrid,20,28
+1979,simran yadav,M,24,Marketing,Intern,3,99233,excellent,83.37,lucknow,2021-03-07,OFFICE,16,7
+1980,Neha Patel,M,49,it,senior Analyst,16,108049,GOOD,94.46,Mumbai,2020-03-26,Hybrid,13,49
+1981,Ananya Maurya,female,54,finance,Intern,8,133575,GOOD,96.68,Pune,2020-01-24,OFFICE,7,11
+1982,Arjun Maurya,male,37,HR,EXecutive,3,93681,excellent,85.58,chennai,2019-07-20,Hybrid,20,29
+1983,Arjun singh,M,36,finance,Analyst,6,52818,Poor,86.95,HyderaBad,2019-04-07,OFFICE,20,7
+1984,Kabir Kumar,Female,22,finance,EXecutive,1,55544,excellent,90.09,Pune,2022-07-13,Hybrid,8,19
+1985,Aisha mehta,M,54,Sales,manager,16,87532,excellent,98.84,lucknow,2018-03-22,Hybrid,7,33
+1986,simran Verma,female,28,it,manager,7,103636,Poor,88.08,HyderaBad,2023-04-22,remote,12,33
+1987,Rahul yadav,F,33,finance,manager,14,82705,GOOD,86.78,Mumbai,2020-05-19,remote,16,14
+1988,Aisha Kumar,Female,28,Marketing,Intern,14,45104,excellent,70.44,HyderaBad,2021-12-01,remote,18,36
+1989,Rohan singh,female,50,Marketing,senior Analyst,7,149336,GOOD,72.43,Pune,2020-12-05,Hybrid,27,27
+1990,Arjun singh,F,52,Sales,EXecutive,15,94603,average,87.32,Pune,2019-08-22,OFFICE,6,43
+1991,Sneha Patel,Female,56,it,EXecutive,18,127499,excellent,98.09,Bangalore,2022-06-23,Hybrid,16,13
+1992,Rohan Jain,Male,50,it,EXecutive,10,84025,Poor,96.0,chennai,2020-03-17,remote,0,41
+1993,Rohan yadav,male,21,Marketing,EXecutive,1,121264,GOOD,99.48,DELHI,2023-04-19,Hybrid,4,44
+1994,priya yadav,male,59,HR,manager,16,57317,GOOD,85.84,HyderaBad,2020-12-12,remote,24,18
+1995,aditya Verma,female,37,Sales,EXecutive,15,56416,GOOD,93.64,Pune,2019-12-05,remote,5,8
+1996,Rahul Verma,F,40,Sales,senior Analyst,14,67012,average,95.21,Jaipur,2024-11-28,OFFICE,25,24
+1997,aditya Maurya,male,44,Marketing,manager,12,130585,GOOD,89.44,Mumbai,2023-08-26,OFFICE,1,32
+1998,priya Jain,F,42,Marketing,EXecutive,14,93045,GOOD,80.16,Jaipur,2019-05-02,remote,26,18
+1999,Karan singh,F,49,HR,Intern,3,46400,GOOD,84.1,lucknow,2019-12-07,remote,24,48
+2000,Aisha mehta,female,42,HR,Analyst,15,73270,average,95.74,HyderaBad,2022-03-06,Hybrid,15,38
